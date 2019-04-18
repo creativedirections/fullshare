@@ -37,7 +37,7 @@
 <!-- Banner -->
 <section class="banner {{ _style }} {{ include.size }} {{ include.scheme }} {{ include.color }} content-align-{{ _content_align }} image-position-{{ _img_pos }} onload-image-fade-in-slow onload-content-fade-in">
   <div class="content">
-    <h2 class="motto">{{ .title }}</h2>
+    <h2 class="motto">{{ _data.title }}</h2>
     <h3>{{ _data.desc }}</h3>
     <p>{{ _data.content }}</p>
     {% if _data.button.show %}

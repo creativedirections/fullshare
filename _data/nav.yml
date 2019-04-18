@@ -1,6 +1,6 @@
 # pages to appear in navivation
 - title: About Us
-  path: /#about
+  path: /#aboutus
 
 - title: Our Business
   path: /#blog

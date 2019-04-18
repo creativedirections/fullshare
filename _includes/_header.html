@@ -12,7 +12,7 @@
   <!-- Nav -->
   <nav id="nav">
     <ul>
-      {% for item in site.data[ include.fname] %}
+      {% for item in site.data[ include.fname ] %}
       <li><a href="{{ item.path | prepend: site.baseurl }}">{{ item.title }}</a></li>
       {% endfor %}
       <li><a href="{{ site.baseurl }}/#contact" class="button special smooth-scroll-middle">Contact Us</a></li>
@@ -45,4 +45,4 @@
 </header>
 
 <!-- Create Mobile Menu -->
-{% include _menu.html fname = 'include.fname' %}
+{% include _menu.html fname = include.fname %}
