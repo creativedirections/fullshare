@@ -2,7 +2,7 @@
 *
 *   This include lets you easily display a Gallery.
 *
-*   usage: {% include _gallery.html style='style1' lightbox=true size='medium' %}
+*   usage: {% include _gallery.html key='' style='style1' lightbox=true size='medium' %}
 *
 *   The content for the gallery is retrived from the calling page's front matter; for example:
 *   gallery:
@@ -31,16 +31,19 @@
 {% assign _size = include.size %}
 {% if _size %}{% else %}{% assign _size = 'medium' %}{% endif %}
 
+{% assign _data = page[include.key] %}
+{% if _data %}{% else %}{% assign _data = page.gallery %}{% endif %}
+
 <!-- Gallery -->
 <section class="wrapper style1 align-center">
   <div class="inner">
-    <h2>{{ page.gallery.title }}</h2>
-    <p>{{ page.gallery.content }}</p>
+    <h2>{{ _data.title }}</h2>
+    <p>{{ _data.content }}</p>
   </div>
 
   <!-- Gallery -->
     <div class="gallery {{ _style }} {{ _size }} {% if include.lightbox %}lightbox{% endif %} onscroll-fade-in">
-      {% for article in page.gallery.articles %}
+      {% for article in _data.articles %}
       <article>
         <a href="{{ article.url }}" class="image">
           <img src="{{ article.img_url }}" alt="" />
