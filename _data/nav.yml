@@ -1,0 +1,25 @@
+# pages to appear in navivation
+- title: About
+  path: /about
+
+- title: Blog
+  path: /blog
+
+- title: Example
+  path: /examples
+
+- title: Home [Lite]
+  path: /index-new.html
+
+#
+# en:
+#   - title:
+#     path:
+#
+# tc:
+#   - title:
+#     path:
+#
+# sc:
+#   - title:
+#     path:

@@ -1,0 +1,11 @@
+# Flag emoji came from https://emojipedia.org/
+
+en:
+  label: English
+  icon: 🇺🇸
+tc:
+  label: Traditional Chinese - 繁體
+  icon: 🇭🇰
+sc:
+  label: Simplified Chinese - 简体
+  icon: 🇨🇳

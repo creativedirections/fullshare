@@ -1,0 +1,56 @@
+{% comment %}
+*
+*   This include lets you easily display a the Banner.
+*
+*   usage: {% include _banner.html style='style5' scheme='' color='' size='fullscreen' content_align='left' img_pos='left' %}
+*
+*   The content for the banner is retrived from the calling page's front matter; for example:
+*   banner:
+*     title: This is a Banner Example, which is a H2 Heading
+*     desc: 'This is a H3 Heading.'
+*     content: 'This is a p tag. You can write HTML here as well.'
+*     button:
+*       show: true
+*       url: "/#"
+*       text: Get Started
+*     image_url: '../images/banner.jpg'
+*
+*   See this link for reference: https://html5up.net/uploads/demos/story/#reference-banner
+*
+{% endcomment %}
+
+<!-- Set Default Parameters (empty variable allowed if not set) -->
+{% assign _style = include.style %}
+{% if _style %}{% else %}{% assign _style = 'style5' %}{% endif %}
+
+{% assign _content_align = include.content_align %}
+<!-- {{ _content_align | default: 'left' }} -->
+{% if _content_align %}{% else %}{% assign _content_align = 'left' %}{% endif %}
+
+{% assign _img_pos = include.img_pos %}
+<!-- {{ _img_pos | default: 'left' }} -->
+{% if _img_pos %}{% else %}{% assign _img_pos = 'left' %}{% endif %}
+
+<!-- Banner -->
+<section class="banner {{ _style }} {{ include.size }} {{ include.scheme }} {{ include.color }} content-align-{{ _content_align }} image-position-{{ _img_pos }} onload-image-fade-in-slow onload-content-fade-in">
+  <div class="content">
+    <h2 class="motto">{{ page.banner.title }}</h2>
+    <h3>{{ page.banner.desc }}</h3>
+    <p>{{ page.banner.content }}</p>
+    {% if page.banner.button.show %}
+    <ul class="actions vertical">
+      {% assign button_url = page.banner.button.url %}
+      {% comment %}
+      {% if button_url contains '://' %}{% else %}
+        <!-- {% assign button_url = {{ button_url | prepend: site.url }} %} -->
+        {% assign button_url = "google.com" %}
+      {% endif %}
+      {% endcomment %}
+      <li><a href="{{ button_url }}" class="button big wide special smooth-scroll-middle">{{ page.banner.button.text }}</a></li>
+    </ul>
+    {% endif %}
+  </div>
+  <div class="image">
+    <img src="{{ page.banner.image_url }}" alt="" />
+  </div>
+</section>
