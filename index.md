@@ -29,19 +29,117 @@ spotlight-about:
     text: Learn More
   image_url: 'images/spotlight01.jpg'
 
+items-businesses:
+  title: Our Business
+  content: |
+    <a href="pages/business" class="button">Learn More</a>
+  list:
+    - title: Tourism
+      content:
+      fa_class: far fa-gem
+    - title: Education & Healthcare
+      content:
+      fa_class: far fa-gem
+    - title: Renewable Energy
+      content:
+      fa_class: far fa-gem
+    - title: Property
+      content:
+      fa_class: far fa-gem
+
+spotlight-business:
+  title: Our Business
+  content: |
+    <ul class="alt">
+    <li>Tourism</li>
+    <li>Education & Healthcare</li>
+    <li>Renewable Energy</li>
+    <li>Property</li>
+    </ul>
+  button:
+    show: true
+    url: "pages/business"
+    text: Learn More
+  image_url: 'images/spotlight02.jpg'
+
+spotlight-governance:
+  title: Corporate Goverance
+  content: |
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th>Onboard and Continuous Professional Development</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Orientation</td>
+          </tr>
+          <tr>
+            <td>Continuous professional development</td>
+          </tr>
+          <tr>
+            <td>Training</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="table-wrapper">
+      <table>
+        <thead>
+          <tr>
+            <th>Internal Control and Risk Management</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>To maintain steady and effective internal control</td>
+          </tr>
+          <tr>
+            <td>Proper response to the risk to prevent the assets from improperly used or loss</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  button:
+    show: true
+    url: "pages/governance"
+    text: Learn More
+  image_url: 'images/corp_gov.png'
+
+items-contact:
+  title: Contact Us
+  content: Media & Investor Enquiries
+  list:
+    - title: Telephone
+      content: <a href="tel:+852 3618 8462">+852 3618 8462</a>
+      fa_class: fas fa-phone
+    - title: Fax
+      content: +852 3460 4237
+      fa_class: fas fa-fax
+    - title: Email
+      content: <a href="mailto:fullshare@intelligentjoy.com">fullshare@intelligentjoy.com</a>
+      fa_class: far fa-envelope
+    - title: Address
+      content: <a href="https://goo.gl/maps/xvcagXJyVho311Qt8" target="_blank">Unit 10-12, Level 43, Champion Tower, 3 Garden Road, Central, Hong Kong</a>
+      fa_class: fas fa-map
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='' color='' size='fullscreen' content_align='left' img_pos='left' %}
+
 <!-- About Us -->
 {% include _spotlight.html key='spotlight-about' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='left' id='aboutus' %}
 
-{% comment %}
-
 <!-- Our Business -->
-{% include _spotlight.html key='spotlight1' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='left' id='' %}
-<!-- Corporate Goverance -->
-{% include _spotlight.html key='spotlight1' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='left' id='' %}
-<!-- Contact Us -->
-{% include _spotlight.html key='spotlight1' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='left' id='' %}
-
+{% comment %}
+# finding font icon and formatting the item grid a bit time consumming right now
+{% include _items.html key='items-businesses' style='style2' size='small' id='businesses' %}
 {% endcomment %}
+{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='left' id='businesses' %}
+
+<!-- Corporate Goverance -->
+{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='left' id='governance' %}
+
+<!-- Contact Us -->
+{% include _items.html key='items-contact' style='style3' size='small' id='contact' %}
