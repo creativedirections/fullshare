@@ -2,7 +2,7 @@
 *
 *   This include lets you easily display a Spotlight.
 *
-*   usage: {% include _spotlight.html style='style1' orient='right' scheme='' color='' size='fullscreen' content_align='left' img_pos='left' id='' %}
+*   usage: {% include _spotlight.html key='' style='style1' orient='right' scheme='' color='' size='fullscreen' content_align='left' img_pos='left' id='' %}
 *
 *   note that {{ size }} only works for style 4 + 5
 *
@@ -33,20 +33,23 @@
 {% assign _img_pos = include.img_pos %}
 {% if _img_pos %}{% else %}{% assign _img_pos = 'left' %}{% endif %}
 
+{% assign _data = page[include.key] %}
+{% if _data %}{% else %}{% assign _data = page.spotlight %}{% endif %}
+
 <!-- Spotlight -->
 <section class="spotlight {{ _style }} {{ include.size }} {{ include.scheme }} orient-{{ _orient }} content-align-{{ _content_align }} image-position-{{ _img_pos }} onscroll-image-fade-in" {% if include.id %} id="{{ include.id }}" {% endif %}>
   <div class="content">
-    <h2>{{ page.spotlight.title }}</h2>
-    <p>{{ page.spotlight.content}}</p>
+    <h2>{{ _data.title }}</h2>
+    <p>{{ _data.content}}</p>
 
-    {% if page.spotlight.button.show %}
+    {% if _data.button.show %}
     <ul class="actions vertical">
-      <li><a href="{{ page.spotlight.button.url }}" class="button">{{ page.spotlight.button.text }}</a></li>
+      <li><a href="{{ _data.button.url }}" class="button">{{ _data.button.text }}</a></li>
     </ul>
     {% endif %}
 
   </div>
   <div class="image">
-    <img src="{{ page.spotlight.image_url }}" alt="" />
+    <img src="{{ _data.image_url }}" alt="" />
   </div>
 </section>

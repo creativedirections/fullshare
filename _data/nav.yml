@@ -1,15 +1,13 @@
 # pages to appear in navivation
-- title: About
-  path: /about
+- title: About Us
+  path: /#about
 
-- title: Blog
-  path: /blog
+- title: Our Business
+  path: /#blog
 
-- title: Example
-  path: /examples
+- title: Corporate Governance
+  path: /#cg
 
-- title: Home [Lite]
-  path: /index-new.html
 
 #
 # en:

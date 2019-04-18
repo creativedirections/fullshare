@@ -1,17 +1,17 @@
 # Site settings
-title:       Jekyllized Story
-description: "A simple tale made complicated."  # Used in index.html but also for SEO in _includes/_head.html
-baseurl:     "/jekyllized-story"                # the subpath of your site, e.g. /blog
+title:       Fullshare Holdings Limited
+description: "Fullshare Holdings Limited (HKSE: 00607.HK) is a multinational conglomerate and investment company. Founded in 2002 and listed on Hong Kong stock exchange in December 2013, Fullshare is headquartered in Nanjing, China with offices in Hong Kong, Singapore, and Australia."  # Used in index.html but also for SEO in _includes/_head.html
+baseurl:     "/fullshare"                # the subpath of your site, e.g. /blog
 url:         ""                                 # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"                       # see _layouts/post.html
-footer_note: '&copy; Creative Directions. Theme by <a href="https://html5up.net">HTML5 UP</a>.'
-demo_script: true                             # this loads the assets/js/demo.js for index.html
+footer_note: '&copy; Fullshare Holding Limited. | Unit 10-12, Level 43, Champion Tower, 3 Garden Road, Central, Hong Kong | fullshare@intelligentjoy.com'
+demo_script: false                             # this loads the assets/js/demo.js for index.html
 
 # SEO
-admin:      "Creative Directions"
+admin:      "Fullshare Holding Limited"
 admin_city: "Hong Kong"                         # used for SEO, see _includes/head.html
 admin_state: "Hong Kong"                        # used for SEO, see _includes/head.html
-share-image: "/images/share.png"                # used for SEO, see _includes/_head.html
+share-image: ""                # used for SEO, see _includes/_head.html
 
 # Google services
 google_verification:
