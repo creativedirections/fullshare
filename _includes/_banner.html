@@ -2,7 +2,7 @@
 *
 *   This include lets you easily display a the Banner.
 *
-*   usage: {% include _banner.html key='' style='style5' scheme='' color='' size='fullscreen' content_align='left' img_pos='left' %}
+*   usage: {% include _banner.html key='' style='style5' scheme='' color='' size='fullscreen' content_align='left' img_pos='left' id='' %}
 *
 *   The content for the banner is retrived from the calling page's front matter; for example:
 *   banner:
@@ -35,7 +35,7 @@
 {% if _data %}{% else %}{% assign _data = page.banner %}{% endif %}
 
 <!-- Banner -->
-<section class="banner {{ _style }} {{ include.size }} {{ include.scheme }} {{ include.color }} content-align-{{ _content_align }} image-position-{{ _img_pos }} onload-image-fade-in-slow onload-content-fade-in">
+<section class="banner {{ _style }} {{ include.size }} {{ include.scheme }} {{ include.color }} content-align-{{ _content_align }} image-position-{{ _img_pos }} onload-image-fade-in-slow onload-content-fade-in" {% if include.id %} id = "{{ include.id }}" {% endif %}>
   <div class="content">
     <h2 class="motto">{{ _data.title }}</h2>
     <h3>{{ _data.desc }}</h3>
