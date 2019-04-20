@@ -4,7 +4,12 @@ description: "Fullshare Holdings Limited (HKSE: 00607.HK) is a multinational con
 baseurl:     "/fullshare"                # the subpath of your site, e.g. /blog
 url:         ""                                 # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"                       # see _layouts/post.html
-footer_note: '&copy; Fullshare Holding Limited. | Unit 10-12, Level 43, Champion Tower, 3 Garden Road, Central, Hong Kong | fullshare@intelligentjoy.com'
+logo: /images/logo_white_small.png
+footer_note: |
+  <ul class="actions">
+    <li>&copy; Fullshare Holding Limited.</li>
+    <li>Unit 10-12, Level 43, Champion Tower, 3 Garden Road, Central, Hong Kong</li>
+  </ul>
 demo_script: false                             # this loads the assets/js/demo.js for index.html
 
 # SEO
