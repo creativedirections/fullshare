@@ -10,8 +10,8 @@ banner:
   button:
     show: true
     url: "#aboutus"
-    text: Get Started
-  image_url: 'images/banner.jpg'
+    text: Continue
+  image_url: 'images/background.jpg'
 
 spotlight-about:
   title: About Us
@@ -25,9 +25,9 @@ spotlight-about:
     </ul>
   button:
     show: true
-    url: "pages/aboutus"
+    url: "pages/about"
     text: Learn More
-  image_url: 'images/spotlight01.jpg'
+  image_url: 'images/business/property/wonder_city/1.jpg'
 
 items-businesses:
   title: Our Business
@@ -60,10 +60,10 @@ spotlight-business:
     show: true
     url: "pages/business"
     text: Learn More
-  image_url: 'images/spotlight02.jpg'
+  image_url: 'images/business/property/yuhua_salon/3.jpg'
 
 spotlight-governance:
-  title: Corporate Goverance
+  title: Corporate Goverance (Placeholder)
   content: |
     <div class="table-wrapper">
       <table>
@@ -126,7 +126,7 @@ items-contact:
       fa_class: fas fa-map
 ---
 <!-- Welcome Banner -->
-{% include _banner.html key='' style='style5' scheme='' color='' size='fullscreen' content_align='left' img_pos='left' %}
+{% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- About Us -->
 {% include _spotlight.html key='spotlight-about' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='left' id='aboutus' %}
@@ -136,10 +136,12 @@ items-contact:
 # finding font icon and formatting the item grid a bit time consumming right now
 {% include _items.html key='items-businesses' style='style2' size='small' id='businesses' %}
 {% endcomment %}
-{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='left' id='businesses' %}
+{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='invert' color='' size='' content_align='right' img_pos='left' id='businesses' %}
 
+{% comment %}
 <!-- Corporate Goverance -->
-{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='left' id='governance' %}
+{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='governance' %}
+{% endcomment %}
 
 <!-- Contact Us -->
 {% include _items.html key='items-contact' style='style3' size='small' id='contact' %}

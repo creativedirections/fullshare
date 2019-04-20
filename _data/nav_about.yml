@@ -1,0 +1,20 @@
+# pages to appear in navivation
+- title: Management Team
+  path: /pages/about#team
+
+- title: Global Office
+  path: /pages/about#office
+
+
+#
+# en:
+#   - title:
+#     path:
+#
+# tc:
+#   - title:
+#     path:
+#
+# sc:
+#   - title:
+#     path:
