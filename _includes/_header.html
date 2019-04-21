@@ -9,7 +9,9 @@
 <header id="header">
   {% if site.logo %}
   <span id="logo" class= "image">
+    <a href="{{ site.baseurl }}/home">
     <img src="{{ site.baseurl }}{{ site.logo }}" alt = "Logo of {{ site.title }}" height = "60" style = "padding-top : 10px; padding-left: 10px" />
+    </a>
   </span>
   {% else %}
   <h1 id="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
@@ -21,7 +23,7 @@
       {% for item in site.data[ include.fname ] %}
       <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
       {% endfor %}
-      <li><a href="{{ site.baseurl }}/#contact" class="button special smooth-scroll-middle">Contact Us</a></li>
+      <li><a href="{{ site.baseurl }}/home#contact" class="button special smooth-scroll-middle">Contact Us</a></li>
 
       <!--
       Language Support
