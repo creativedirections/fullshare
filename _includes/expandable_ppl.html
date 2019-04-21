@@ -9,9 +9,17 @@
 {% for person in site.data[include.fname] %}
   <h3>{{ person.name }}</h3>
   <h4>{{ person.title}}</h4>
-  {% if person.details %}
+  {% if person.details or person.list %}
   <p>[expand]</p>
   {{ person.details }}
+
+    {% if person.list %}
+      <ul>
+      {% for item in person.list %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
   <p>[/expand]</p>
   {% endif %}
 {% endfor %}

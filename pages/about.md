@@ -26,7 +26,7 @@ banner-office:
     show: true
     url: "#"
     text: Back to Top
-  image_url: '../images/background.jpg'
+  image_url: '../images/office_map.png'
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
@@ -44,12 +44,12 @@ banner-office:
 
       <section class="align-left">
         <h2>Independent Non-executive Directors</h2>
-        {% include expandable_ppl.html fname='team_exec_dir' %}
+        {% include expandable_ppl.html fname='team_indy_dir' %}
       </section>
 
       <section class="align-left">
         <h2>Senior Management</h2>
-        {% include expandable_ppl.html fname='team_exec_dir' %}
+        {% include expandable_ppl.html fname='team_senior_mgt' %}
       </section>
 
     <ul class="actions vertical">
