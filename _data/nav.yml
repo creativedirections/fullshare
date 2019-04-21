@@ -1,12 +1,12 @@
 # pages to appear in navivation
 - title: About Us
-  path: /#aboutus
+  path: /home#aboutus
 
 - title: Our Business
-  path: /#businesses
+  path: /home#businesses
 
 - title: Corporate Governance
-  path: /#governance
+  path: /home#governance
 
 
 #
