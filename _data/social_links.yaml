@@ -10,7 +10,7 @@
   url:
 - title: RSS Feed
   fa_class: fa fa-rss
-  url: ../fullshare/feed.xml     # not referencing properly
+  url: #../fullshare/feed.xml     # not referencing properly
 - title: Twitter
   fa_class: fab fa-twitter
   url:

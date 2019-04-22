@@ -21,7 +21,17 @@ banner:
 banner-office:
   title: Global Office
   desc:
-  content: this is a place holder for the global office map
+  content: |
+    <ul>
+      <li>Hong Kong</li>
+      <li>Singapore</li>
+      <li>Nanjing</li>
+      <li>Chongqing</li>
+      <li>Guangzhou</li>
+      <li>Shenzhen</li>
+      <li>Brisbane</li>
+      <li>Melbourne</li>
+    </ul>
   button:
     show: true
     url: "#"

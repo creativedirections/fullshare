@@ -2,7 +2,7 @@
 layout: landing
 title: Welcome to Fullshare
 banner:
-  title: Welcome to Fullshare
+  title: 
   desc:
   content: |
     <img src="images/home_logo.png" class="fit" width = "95%" />
