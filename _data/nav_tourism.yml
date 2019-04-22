@@ -1,0 +1,24 @@
+# pages to appear in navivation
+- title: Our Business
+  path: /home#businesses
+
+- title: laguna
+  path: /pages/tourism#laguna
+
+- title: Sheraton
+  path: /pages/tourism#sheraton
+
+- title: Orto Park
+  path: /pages/tourism#ortopark
+#
+# en:
+#   - title:
+#     path:
+#
+# tc:
+#   - title:
+#     path:
+#
+# sc:
+#   - title:
+#     path:
