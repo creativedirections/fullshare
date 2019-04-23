@@ -1,7 +1,7 @@
 # Site settings
 title:       Fullshare Holdings Limited
 description: "Fullshare Holdings Limited (HKSE: 00607.HK) is a multinational conglomerate and investment company. Founded in 2002 and listed on Hong Kong stock exchange in December 2013, Fullshare is headquartered in Nanjing, China with offices in Hong Kong, Singapore, and Australia."  # Used in index.html but also for SEO in _includes/_head.html
-baseurl:     "/fullshare"                # the subpath of your site, e.g. /blog
+baseurl:     "" #/fullshare"                    # the subpath of your site, e.g. /blog
 url:         ""                                 # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"                       # see _layouts/post.html
 logo: /images/logo_white_small.png
