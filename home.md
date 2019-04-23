@@ -29,24 +29,6 @@ spotlight-about:
     text: Learn More
   image_url: 'images/business/property/wonder_city/1.jpg'
 
-items-businesses:
-  title: Our Business
-  content: |
-    <a href="pages/business" class="button">Learn More</a>
-  list:
-    - title: Tourism
-      content:
-      fa_class: far fa-gem
-    - title: Education & Healthcare
-      content:
-      fa_class: far fa-gem
-    - title: Renewable Energy
-      content:
-      fa_class: far fa-gem
-    - title: Property
-      content:
-      fa_class: far fa-gem
-
 spotlight-business:
   title: Our Business
   content: |
@@ -64,49 +46,12 @@ spotlight-business:
 
 spotlight-governance:
   title: Corporate Goverance (Placeholder)
-  content: |
-    <div class="table-wrapper">
-      <table>
-        <thead>
-          <tr>
-            <th>Onboard and Continuous Professional Development</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Orientation</td>
-          </tr>
-          <tr>
-            <td>Continuous professional development</td>
-          </tr>
-          <tr>
-            <td>Training</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="table-wrapper">
-      <table>
-        <thead>
-          <tr>
-            <th>Internal Control and Risk Management</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>To maintain steady and effective internal control</td>
-          </tr>
-          <tr>
-            <td>Proper response to the risk to prevent the assets from improperly used or loss</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
+  content:
   button:
     show: true
     url: "pages/governance"
     text: Learn More
-  image_url: 'images/corp_gov.png'
+  image_url: 'images/business/tourism/sheraton/4.jpg'
 
 items-contact:
   title: Contact Us
@@ -136,11 +81,11 @@ items-contact:
 # finding font icon and formatting the item grid a bit time consumming right now
 {% include _items.html key='items-businesses' style='style2' size='small' id='businesses' %}
 {% endcomment %}
-{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='invert' color='' size='fifty' content_align='right' img_pos='left' id='businesses' %}
+{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='invert' color='' size='' content_align='right' img_pos='left' id='businesses' %}
 
 
 <!-- Corporate Goverance -->
-{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='governance' %}
+{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='center' id='governance' %}
 
 
 <!-- Contact Us -->
