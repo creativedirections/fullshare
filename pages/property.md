@@ -1,72 +1,81 @@
 ---
 layout: page
-title: Our Tourism Business | Fullshare Holding Ltd.
-nav_fname: nav_tourism
+title: Our Property Business | Fullshare Holding Ltd.
+nav_fname: nav_property
 banner:
-  title: Tourism
+  title: Property
   desc:
   content:
   button:
     show: true
-    url: "#laguna"
+    url: "#wonder_city"
     text: Continue
-  image_url: '../images/business/tourism/laguna/1.jpg'
+  image_url: '../images/business/property/wonder_city/1.jpg'
 
-spotlight-laguna:
-  title: Laguna
+spotlight-wonder_city:
+  title: Wonder City
   content: |
-    <p><b>Laguna Whitsundays, Australia Tourist Town Development Project</b></p>
-    <p>[expand]</p>
-    <p>Around 25 kilometers from the south of Proserpine Airport, Laguna Whitsundays covering approximately 2,800 square kilometers located in the Whitsunday Islands which is consisted by 74 scenic islands and adjacent to the World Heritage Great Barrier Reef. With the beautiful and pleasant scenery, it will definitely become the world-wide tourist resort landmarks in the twenty-first century.</p>
+    <p><b>Wonder City</b></p>
 
-    <p>The target of the project is to develop Laguna Whitsundays as one of the top world-class destination resorts and high-end quality residential housing projects with the capacity to serve 15,000 people. It will include an international airport, five world-class hotels, a casino and entertainment center, two 18-hole and one 27-hole golf courses, and 860 berth marina, a tourism related organic farm, a shopping and retail area, a conference center, a cruise terminal, a retirement & vacation village and other real estate residential developments.</p>
-
-    <p>The project mainly targets to the ever-increasing Asian tourist market, while to provide comprehensive community facilities to the neighboring mining towns. It will definitely become the star of Queensland for its tourism, resources, construction and agriculture development.</p>
-    <p>[/expand]</p>
+    <p>Wonder City is a large scale shopping mall center, located in Nanjing, Jiangsu Province, the PRC. It has introduced high-quality tenants. Wonder City received approximately 55 thousand shoppers per day. Its total gross floor area is approximately 100 thousand sq.m. while the area available for sale reaches approximately 63 thousand sq.m. To attract shoppers’ eyeballs, the shopping mall holds 8-10 promotion activities per year and customizes its service of each floor based on its different target groups. For instance, for the floor targeted to children, a small train to take children to see around the whole floor, photo studio for kids and baby swimming pool, and other interesting service are provided. For mothers’ convenience, the service offered to mom is also on the same floor.</p>
   button:
     show: true
     url: "#"
     text: Back to Top
-  image_url: '../images/business/tourism/laguna/2.jpg'
+  image_url: '../images/business/property/wonder_city/2.jpg'
 
-spotlight-sheraton:
-  title: Sheraton
+spotlight-yuhua_salon:
+  title: Yuhua Salon
   content: |
-    <p><b>Sheraton Mirage Hotel</b></p>
-    <p>[expand]</p>
-    <p>Officially operated in 1987, Sheraton Mirage Hotel has been a world-class prestigious tropical holiday paradise. The hotel has hosted many renowned dignitaries and celebrities including the former Chinese President Jiang Zemin, the former United States President Bill Clinton, the famous American actor Tom Hanks and John Travolta, the famous British singer Mick Jagger, the German supermodel Claudia Schiffer, etc.</p>
+    <p><b>Yuhua Salon</b></p>
 
-    <p>Featured by the globally renowned tourist destination Great Barrier Reef and Daintree Rainforest, as well as the unique cultural landscape of Port Douglas, it has successfully contributed “Mirage” to become one of the high-end tourist resort brands around the world. Fullshare Holdings Limited has introduced the brand “Mirage” to the high-end tourist and vacation markets in China and other countries.</p>
-    <p>[/expand]</p>
+    <p>Yuhua Salon is located in the central area of China (Nanjing) Software Valley and it is the first comprehensive headquarter-style commercial real estates project with dual subway stations, low-carbon, green, user-friendly advantages in Nanjing. With total construction area of 50 thousand square meters, the project includes management centers, offices and various commercial facilities such as office buildings, commercial properties, hotels and serviced apartments. Being the core real estate project dedicated to the national information technology and software industry base, Yuhua Salon is the pioneer who successfully applied low-carbon energy-saving technology in commercial properties. The geothermal heat pump system developed by the Group can keep constant temperature, humidity, and oxygen content within the property. Using loop groundwater source controlling temperature and humidity, it can well maintain the office environment at the most comfortable conditions for human being. In addition, it can reduce energy consumption by 30% to achieve low-carbon energy targets.</p>
+
+    <p>Yuhua Salon has introduced many well-known brands, including Wal-Mart Sam’s Club, Decathlon, a sports brand originated from Europe, Royal Sport Club, Rucker Park, etc.</p>
+
+    <p>China (Nanjing) Software Valley is located in the southwest of Nanjing, with total planning area reaches 73 square kilometers. It is the largest R&D base of information technology & software industry in China that its comprehensive strength has been ranked as one of the top three software parks in China. It is also well known as the information technology services outsourcing demonstration base, the national information technology and software industry base, as well as the national digital publishing base. There were over 660 software companies operating and more than 150 thousand software practitioners working in the Valley.</p>
   button:
     show: true
     url: "#"
     text: Back to Top
-  image_url: '../images/business/tourism/sheraton/4.jpg'
+  image_url: '../images/business/property/yuhua_salon/1.jpg'
 
-spotlight-ortopark:
-  title: Orto Park
+spotlight-gsh_plaza:
+  title: GSH Plaza
   content: |
-    <p><b>ORTO Park Singapore</b></p>
-    <p>[expand]</p>
-    <p>Differentiated from the high-end tourist resort brand “Mirage”, ORTO Park emphasizes on suburbanized family vacation style with natural and original mission.</p>
+    <p><b>GSH PLAZA</b></p>
 
-    <p>ORTO Park, one of the largest private leisure parks, located in the northern part of Singapore, is constructed, managed and operated by the Group. It covers about 51,500 square meters with beautiful natural environment and it is a popular recreation park for local residents and tourists.</p>
-
-    <p>ORTO Park is situated near the metro network with convenient access. With the simple and elegant scenery, as well as tranquil lake views, the park has all kinds of activity facilities such as shrimp & fishing pools, children playgrounds, etc. The outdoor lakeside cottages and lake avenue are suitable to organize all types of schools events, family gatherings and weddings, etc. The restaurants and cafes situated along the scenic lakeside offer delicious culinary experience to the visitors.</p>
-    <p>[/expand]</p>
+    <p>GSH PLAZA is a prestigious commercial and office tower in the heart of Singapore’s Central Business District, with Raffles Place and Telok Ayer MRT stations mere minutes away. The 28-storey office tower has 259 strata office units and two levels of retail space, representing a versatile and efficient commercial space which caters to both retail and sophisticated lifestyle needs. It encourages work-life balance and can set a fine example for the future business community.</p>
   button:
     show: true
     url: "#"
     text: Back to Top
-  image_url: '../images/business/tourism/orto_park/1.jpg'
+  image_url: '../images/business/property/gsh_plaza/1.jpg'
+
+spotlight-residential:
+  title: Residential Property
+  content: |
+    <p><b>Amber Garden</b></p>
+
+    <p>Amber Garden is located in Nanjing City, Jiangsu Province, China, covering a total gross floor of approximately 214,227 sq.m.</p>
+
+    <p><b>Kunshan Herong</b></p>
+
+    <p>Kunshan Herong is located in Kunshan City, Jiangsu Province, China, covering a total gross floor of approximately 82,269 sq.m.</p>
+  button:
+    show: true
+    url: "#"
+    text: Back to Top
+  image_url: '../images/business/property/residential/1.jpg'
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- Properties -->
-{% include _spotlight.html key='spotlight-laguna' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='left' id='laguna' %}
+{% include _spotlight.html key='spotlight-wonder_city' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='left' id='wonder_city' %}
 
-{% include _spotlight.html key='spotlight-sheraton' style='style1' orient='left' scheme='invert' color='' size='fifty' content_align='right' img_pos='left' id='sheraton' %}
+{% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='invert' color='' size='' content_align='right' img_pos='left' id='yuhua_salon' %}
 
-{% include _spotlight.html key='spotlight-ortopark' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='ortopark' %}
+{% include _spotlight.html key='spotlight-gsh_plaza' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='center' id='gsh_plaza' %}
+
+{% include _spotlight.html key='spotlight-residential' style='style1' orient='left' scheme='invert' color='' size='' content_align='left' img_pos='center' id='residential' %}

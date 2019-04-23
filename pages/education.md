@@ -1,72 +1,61 @@
 ---
 layout: page
-title: Our Tourism Business | Fullshare Holding Ltd.
-nav_fname: nav_tourism
+title: Our Education Business | Fullshare Holding Ltd.
+nav_fname: nav_education
 banner:
-  title: Tourism
+  title: Education & Healthcare
   desc:
   content:
   button:
     show: true
-    url: "#laguna"
+    url: "#sparrow_soccer_school"
     text: Continue
-  image_url: '../images/business/tourism/laguna/1.jpg'
+  image_url: '../images/business/education/sparrow_early_learning/2.jpg'
 
-spotlight-laguna:
-  title: Laguna
+spotlight-sparrow_soccer_school:
+  title: Sparrow Soccer School
   content: |
-    <p><b>Laguna Whitsundays, Australia Tourist Town Development Project</b></p>
-    <p>[expand]</p>
-    <p>Around 25 kilometers from the south of Proserpine Airport, Laguna Whitsundays covering approximately 2,800 square kilometers located in the Whitsunday Islands which is consisted by 74 scenic islands and adjacent to the World Heritage Great Barrier Reef. With the beautiful and pleasant scenery, it will definitely become the world-wide tourist resort landmarks in the twenty-first century.</p>
+    <p>Sparrow Soccer School is the largest soccer school in Tung Chung with over 200 students forming a community that nurtures physical, social and emotional development of children as part of a healthy lifestyle.</p>
 
-    <p>The target of the project is to develop Laguna Whitsundays as one of the top world-class destination resorts and high-end quality residential housing projects with the capacity to serve 15,000 people. It will include an international airport, five world-class hotels, a casino and entertainment center, two 18-hole and one 27-hole golf courses, and 860 berth marina, a tourism related organic farm, a shopping and retail area, a conference center, a cruise terminal, a retirement & vacation village and other real estate residential developments.</p>
+    <p>Sparrow Soccer School is a sponsorship initiative of La Cantera Soccer School by Fullshare Holdings Limited and Sparrow Early Learning to provide soccer training classes and camps for boys and girls aged 3 to 12 years old under the school’s new branding, Sparrow Soccer School.</p>
 
-    <p>The project mainly targets to the ever-increasing Asian tourist market, while to provide comprehensive community facilities to the neighboring mining towns. It will definitely become the star of Queensland for its tourism, resources, construction and agriculture development.</p>
-    <p>[/expand]</p>
+    <p>The head coach of Sparrow Soccer School, Mr. Oscar Benavides, is a UEFA A licensed qualified coach. He has been coaching in Hong Kong since 2001 and has also played semi-professionally for several registered HKFA soccer teams.</p>
+
+    <p><a href="http://www.sparrowsoccerschool.com/">Sparrow Soccer School website link</a></p>
   button:
     show: true
     url: "#"
     text: Back to Top
-  image_url: '../images/business/tourism/laguna/2.jpg'
+  image_url: '../images/business/education/sparrow_soccer_school/1.jpg'
 
-spotlight-sheraton:
-  title: Sheraton
+spotlight-sparrow_early_learning:
+  title: Sparrow Early Learning
   content: |
-    <p><b>Sheraton Mirage Hotel</b></p>
-    <p>[expand]</p>
-    <p>Officially operated in 1987, Sheraton Mirage Hotel has been a world-class prestigious tropical holiday paradise. The hotel has hosted many renowned dignitaries and celebrities including the former Chinese President Jiang Zemin, the former United States President Bill Clinton, the famous American actor Tom Hanks and John Travolta, the famous British singer Mick Jagger, the German supermodel Claudia Schiffer, etc.</p>
+    <p>Sparrow Early Learning Pty Ltd. (“Sparrow”; a subsidiary of the Group), headquartered in Brisbane, Australia, is operating approximately 30 childcare centers in Queensland and Victoria, to provide the childcare and education services for the children aged from 0 to 6. Sparrow has experienced management team and has earned a good reputation in Australia.</p>
 
-    <p>Featured by the globally renowned tourist destination Great Barrier Reef and Daintree Rainforest, as well as the unique cultural landscape of Port Douglas, it has successfully contributed “Mirage” to become one of the high-end tourist resort brands around the world. Fullshare Holdings Limited has introduced the brand “Mirage” to the high-end tourist and vacation markets in China and other countries.</p>
-    <p>[/expand]</p>
+    <p><a href="http://www.sparrowearlylearning.com.au">Sparrow website link</a></p>
   button:
     show: true
     url: "#"
     text: Back to Top
-  image_url: '../images/business/tourism/sheraton/4.jpg'
+  image_url: '../images/business/education/sparrow_early_learning/2.jpg'
 
-spotlight-ortopark:
-  title: Orto Park
+spotlight-hin_feng:
+  title: Hin Feng
   content: |
-    <p><b>ORTO Park Singapore</b></p>
-    <p>[expand]</p>
-    <p>Differentiated from the high-end tourist resort brand “Mirage”, ORTO Park emphasizes on suburbanized family vacation style with natural and original mission.</p>
-
-    <p>ORTO Park, one of the largest private leisure parks, located in the northern part of Singapore, is constructed, managed and operated by the Group. It covers about 51,500 square meters with beautiful natural environment and it is a popular recreation park for local residents and tourists.</p>
-
-    <p>ORTO Park is situated near the metro network with convenient access. With the simple and elegant scenery, as well as tranquil lake views, the park has all kinds of activity facilities such as shrimp & fishing pools, children playgrounds, etc. The outdoor lakeside cottages and lake avenue are suitable to organize all types of schools events, family gatherings and weddings, etc. The restaurants and cafes situated along the scenic lakeside offer delicious culinary experience to the visitors.</p>
-    <p>[/expand]</p>
+    <p>In order to expand in the mother-infant healthcare market, the Group has established a joint venture company, Hin Feng Investment (NanJing) Co., Ltd., with Hin Sang Group (International) Holding Co. Ltd. (SEHK: 6893.HK) to expand the business of mother-infant Chinese medical healthcare as well as diagnosis and treatment services to capture this fast-growing market. Hin Feng Herbaby Health Centre was officially opened on 25 June 2017 in Shek Mun, Shatin, Hong Kong, mainly providing the service of massage, spine care, eye care, acupuncture and other health services as a child grows.</p>
   button:
     show: true
     url: "#"
     text: Back to Top
-  image_url: '../images/business/tourism/orto_park/1.jpg'
+  image_url: '../images/business/education/hin_feng/1.jpg'
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- Properties -->
-{% include _spotlight.html key='spotlight-laguna' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='left' id='laguna' %}
+{% include _spotlight.html key='spotlight-sparrow_soccer_school' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='left' id='sparrow_soccer_school' %}
 
-{% include _spotlight.html key='spotlight-sheraton' style='style1' orient='left' scheme='invert' color='' size='fifty' content_align='right' img_pos='left' id='sheraton' %}
+{% include _spotlight.html key='spotlight-sparrow_early_learning' style='style1' orient='left' scheme='invert' color='' size='fifty' content_align='right' img_pos='left' id='sparrow_early_learning' %}
 
-{% include _spotlight.html key='spotlight-ortopark' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='ortopark' %}
+{% include _spotlight.html key='spotlight-hin_feng' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='hin_feng' %}

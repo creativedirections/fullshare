@@ -1,0 +1,24 @@
+# pages to appear in navivation
+- title: Our Business
+  path: /home#businesses
+
+- title: Sparrow Soccer School
+  path: /pages/education#sparrow_soccer_school
+
+- title: Sparrow Early Learning
+  path: /pages/education#sparrow_early_learning
+
+- title: Hin Feng
+  path: /pages/education#hin_feng
+#
+# en:
+#   - title:
+#     path:
+#
+# tc:
+#   - title:
+#     path:
+#
+# sc:
+#   - title:
+#     path:

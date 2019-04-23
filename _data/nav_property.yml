@@ -1,0 +1,27 @@
+# pages to appear in navivation
+- title: Our Business
+  path: /home#businesses
+
+- title: Wonder City
+  path: /pages/property#wonder_city
+
+- title: Yuhua Salon
+  path: /pages/property#yuhua_salon
+
+- title: GSH Plaza
+  path: /pages/property#gsh_plaza
+
+- title: Residental Property
+  path: /pages/property#residental
+#
+# en:
+#   - title:
+#     path:
+#
+# tc:
+#   - title:
+#     path:
+#
+# sc:
+#   - title:
+#     path:

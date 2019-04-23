@@ -2,14 +2,9 @@
 - title: Our Business
   path: /home#businesses
 
-- title: Laguna
-  path: /pages/tourism#laguna
+- title: CHS
+  path: /pages/renewable#chs
 
-- title: Sheraton
-  path: /pages/tourism#sheraton
-
-- title: Orto Park
-  path: /pages/tourism#ortopark
 #
 # en:
 #   - title:
