@@ -1,0 +1,21 @@
+# pages to appear in navivation
+- title: Task
+  path: /pages/governance#task
+
+- title: Risk Management
+  path: /pages/governance#risk_management
+
+- title: Organizational Chart
+  path: /pages/governance#org_chart
+#
+# en:
+#   - title:
+#     path:
+#
+# tc:
+#   - title:
+#     path:
+#
+# sc:
+#   - title:
+#     path:

@@ -85,7 +85,7 @@ items-contact:
 
 
 <!-- Corporate Goverance -->
-{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='center' id='governance' %}
+{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='' color='' size='' content_align='Center' img_pos='center' id='governance' %}
 
 
 <!-- Contact Us -->
