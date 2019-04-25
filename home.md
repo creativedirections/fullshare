@@ -17,12 +17,14 @@ spotlight-about:
   title: About Us
   content: |
     <p>Fullshare Holdings Limited (“Group”; SEHK stock code: 00607.HK) has been listed on the Hong Kong Stock Exchange since the end of 2013.</p>
+    <p>[expand]</p>
     <p>Fullshare Holdings Limited is a Chinese conglomerate focused on becoming a global leader in healthy living. The Group’s business can be categorized in four segments, namely, tourism, education and healthcare, property, as well as renewable energy. The group’s business and projects have expanded to Mainland China, Hong Kong, Singapore, Australia, etc.</p>
     <ul>
     <li>a constituent stock of FTSE Global Mid Cap Index</li>
     <li>a constituent stock of Hang Seng Composite Large Cap Index and an eligible stock under Southbound Trading of Shanghai-Hong Kong Connect</li>
     <li>a constituent stock of Morgan Stanley Capital International (MSCI) China Index</li>
     </ul>
+    <p>[/expand]</p>
   button:
     show: true
     url: "pages/about"
@@ -32,12 +34,20 @@ spotlight-about:
 spotlight-business:
   title: Our Business
   content: |
+    <!--
     <ul class="alt">
-    <a href="pages/tourism"><li>Tourism</li></a>
-    <a href="pages/education"><li>Education & Healthcare</li></a>
-    <a href="pages/renewable"><li>Renewable Energy</li></a>
-    <a href="pages/property"><li>Property</li></a>
+    <li><a href="pages/tourism" class="button">Tourism</a></li>
+    <li><a href="pages/education" class="button">Education & Healthcare</a></li>
+    <li><a href="pages/renewable" class="button">Renewable Energy</a></li>
+    <li><a href="pages/property" class="button">Property</a></li>
     </ul>
+    -->
+    <p>
+    <a href="pages/tourism" class="button">Tourism</a>
+    <a href="pages/education" class="button">Education & Healthcare</a>
+    <a href="pages/renewable" class="button">Renewable Energy</a>
+    <a href="pages/property" class="button">Property</a>
+    </p>
   button:
     show: false
     url: "pages/business"
@@ -45,7 +55,7 @@ spotlight-business:
   image_url: 'images/business/property/yuhua_salon/3.jpg'
 
 spotlight-governance:
-  title: Corporate Goverance (Placeholder)
+  title: Corporate Goverance
   content:
   button:
     show: true
@@ -74,18 +84,18 @@ items-contact:
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- About Us -->
-{% include _spotlight.html key='spotlight-about' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='left' id='aboutus' %}
+{% include _spotlight.html key='spotlight-about' style='style1' orient='right' scheme='invert' color='' size='' content_align='left' img_pos='left' id='aboutus' %}
 
 <!-- Our Business -->
 {% comment %}
 # finding font icon and formatting the item grid a bit time consumming right now
 {% include _items.html key='items-businesses' style='style2' size='small' id='businesses' %}
 {% endcomment %}
-{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='invert' color='' size='' content_align='right' img_pos='left' id='businesses' %}
+{% include _spotlight.html key='spotlight-business' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='left' id='businesses' %}
 
 
 <!-- Corporate Goverance -->
-{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='' color='' size='' content_align='Center' img_pos='center' id='governance' %}
+{% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='governance' %}
 
 
 <!-- Contact Us -->
