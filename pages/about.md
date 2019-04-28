@@ -74,4 +74,4 @@ banner-office:
 </section>
 
 <!-- Global Office -->
-{% include _banner.html key='banner-office' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' id='office' %}
+{% include _banner.html key='banner-office' style='style2' scheme='invert' color='orient-left' size='fullscreen' content_align='left' img_pos='left' id='office' %}

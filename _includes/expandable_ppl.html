@@ -7,7 +7,7 @@
 {% endcomment %}
 
 {% for person in site.data[include.fname] %}
-  <h3>{{ person.name }}</h3>
+  <h3><b>{{ person.name }}</b></h3>
   <h4>{{ person.title}}</h4>
   {% if person.details or person.list %}
   <p>[expand]</p>

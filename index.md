@@ -2,12 +2,12 @@
 layout: landing
 title: Welcome to Fullshare
 banner:
-  title: 
+  title:
   desc:
   content: |
-    <img src="images/home_logo.png" class="fit" width = "95%" />
+    <a href="home"><img src="images/home_logo.png" class="fit" width = "95%" /></a>
   button:
-    show: true
+    show: false
     url: "home"
     text: Get Started
   image_url: 'images/background.jpg'
