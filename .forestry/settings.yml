@@ -7,8 +7,9 @@ sections:
 - type: directory
   path: _data
   label: Site Data
-  create: all
-  match: "**/*"
+  create: documents
+  match: "*.yaml"
+  new_doc_ext: ".yaml"
 - type: jekyll-pages
   label: Pages
   create: all
