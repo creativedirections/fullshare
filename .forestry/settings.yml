@@ -8,8 +8,8 @@ sections:
   path: _data
   label: Site Data
   create: documents
-  match: "*.y[a]\\?ml"
-  new_doc_ext: ".yaml"
+  match: "*.{yaml,yml}"
+  new_doc_ext: yaml
 - type: jekyll-pages
   label: Pages
   create: all
