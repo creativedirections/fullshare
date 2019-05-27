@@ -35,7 +35,8 @@ banner-office:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text:
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/office_map.png'
 ---
 <!-- Welcome Banner -->
@@ -63,7 +64,7 @@ banner-office:
       </section>
 
     <ul class="actions vertical">
-      <li><a href="#" class="button">Back to Top</a></li>
+      <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
     </ul>
     </div>
     <!--

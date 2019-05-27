@@ -13,6 +13,7 @@
 *       show: true
 *       url: "/#"
 *       text: Get Started
+*       custom_class: button smooth-scroll-middle
 *     image_url: '../images/banner.jpg'
 *
 *   See this link for reference: https://html5up.net/uploads/demos/story/#reference-banner
@@ -43,13 +44,10 @@
     {% if _data.button.show %}
     <ul class="actions vertical">
       {% assign button_url = _data.button.url %}
-      {% comment %}
-      {% if button_url contains '://' %}{% else %}
-        <!-- {% assign button_url = {{ button_url | prepend: site.url }} %} -->
-        {% assign button_url = "google.com" %}
-      {% endif %}
-      {% endcomment %}
-      <li><a href="{{ button_url }}" class="button smooth-scroll-middle">{{ _data.button.text }}</a></li>
+
+      {% assign button_class = _data.button.custom_class %}
+      {% if button_class %}{% else %}{% assign button_class = 'button smooth-scroll-middle' %}{% endif %}
+      <li><a href="{{ button_url }}" class="{{ button_class }}">{{ _data.button.text }}</a></li>
       <!--
       <li><a href="{{ button_url }}" class="button big wide special smooth-scroll-middle">{{ _data.button.text }}</a></li>
       -->
