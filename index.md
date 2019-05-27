@@ -5,7 +5,7 @@ banner:
   title:
   desc:
   content: |
-    <a href="home"><img src="images/home_logo.png" class="fit" width = "95%" /></a>
+    <a href="home" style="text-decoration:none; border:none;"><img src="images/home_logo.png" class="fit" width = "95%" /></a>
   button:
     show: false
     url: "home"
