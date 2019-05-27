@@ -49,17 +49,17 @@ banner-office:
       <h2 >Management Team</h2>
 
       <section class="align-left" id = "team" >
-        <h2>Executive Directors</h2>
+        <h3 class="align-center">Executive Directors</h3>
         {% include expandable_ppl.html fname='team_exec_dir' %}
       </section>
 
       <section class="align-left">
-        <h2>Independent Non-executive Directors</h2>
+        <h3 class="align-center">Independent Non-executive Directors</h3>
         {% include expandable_ppl.html fname='team_indy_dir' %}
       </section>
 
       <section class="align-left">
-        <h2>Senior Management</h2>
+        <h3 class="align-center">Senior Management</h3>
         {% include expandable_ppl.html fname='team_senior_mgt' %}
       </section>
 
