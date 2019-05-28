@@ -21,7 +21,7 @@ spotlight-sparrow_soccer_school:
 
     <p>The head coach of Sparrow Soccer School, Mr. Oscar Benavides, is a UEFA A licensed qualified coach. He has been coaching in Hong Kong since 2001 and has also played semi-professionally for several registered HKFA soccer teams.</p>
 
-    <p><a href="http://www.sparrowsoccerschool.com/">Sparrow Soccer School website link</a></p>
+    <p><a href="http://www.sparrowsoccerschool.com/" class="button">Visit the Website</a></p>
   button:
     show: true
     url: "#"
@@ -34,7 +34,7 @@ spotlight-sparrow_early_learning:
   content: |
     <p>Sparrow Early Learning Pty Ltd. (“Sparrow”; a subsidiary of the Group), headquartered in Brisbane, Australia, is operating approximately 30 childcare centers in Queensland and Victoria, to provide the childcare and education services for the children aged from 0 to 6. Sparrow has experienced management team and has earned a good reputation in Australia.</p>
 
-    <p><a href="http://www.sparrowearlylearning.com.au">Sparrow website link</a></p>
+    <p><a href="http://www.sparrowearlylearning.com.au" class="button">Visit the Website</a></p>
   button:
     show: true
     url: "#"
