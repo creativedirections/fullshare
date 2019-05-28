@@ -26,7 +26,8 @@ spotlight-laguna:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/tourism/laguna/2.jpg'
 
 spotlight-sheraton:
@@ -41,7 +42,8 @@ spotlight-sheraton:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/tourism/sheraton/4.jpg'
 
 spotlight-ortopark:
@@ -58,7 +60,8 @@ spotlight-ortopark:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/tourism/orto_park/1.jpg'
 ---
 <!-- Welcome Banner -->

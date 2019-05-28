@@ -14,6 +14,7 @@
 *       show: true
 *       url: "/#"
 *       text: Get Started
+*       custom_class: button
 *     image_url: '../images/banner.jpg'
 *
 *   See this link for reference: https://html5up.net/uploads/demos/story/#reference-banner
@@ -44,7 +45,10 @@
 
     {% if _data.button.show %}
     <ul class="actions vertical">
-      <li><a href="{{ _data.button.url }}" class="button">{{ _data.button.text }}</a></li>
+      {% assign button_class = _data.button.custom_class %}
+      {% if button_class %}{% else %}{% assign button_class = 'button' %}{% endif %}
+
+      <li><a href="{{ _data.button.url }}" class="{{ button_class }}">{{ _data.button.text }}</a></li>
     </ul>
     {% endif %}
 
