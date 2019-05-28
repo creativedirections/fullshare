@@ -21,7 +21,8 @@ spotlight-wonder_city:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/property/wonder_city/2.jpg'
 
 spotlight-yuhua_salon:
@@ -37,7 +38,8 @@ spotlight-yuhua_salon:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/property/yuhua_salon/1.jpg'
 
 spotlight-gsh_plaza:
@@ -49,7 +51,8 @@ spotlight-gsh_plaza:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/property/gsh_plaza/1.jpg'
 
 spotlight-residential:
@@ -65,7 +68,8 @@ spotlight-residential:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/property/residential/1.jpg'
 ---
 <!-- Welcome Banner -->

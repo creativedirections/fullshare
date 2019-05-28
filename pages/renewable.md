@@ -21,7 +21,8 @@ spotlight-chs:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/renewable/chs/2.jpg'
 ---
 <!-- Welcome Banner -->

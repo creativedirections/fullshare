@@ -25,7 +25,8 @@ spotlight-sparrow_soccer_school:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/education/sparrow_soccer_school/1.jpg'
 
 spotlight-sparrow_early_learning:
@@ -37,7 +38,8 @@ spotlight-sparrow_early_learning:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/education/sparrow_early_learning/2.jpg'
 
 spotlight-hin_feng:
@@ -47,7 +49,8 @@ spotlight-hin_feng:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/education/hin_feng/1.jpg'
 ---
 <!-- Welcome Banner -->

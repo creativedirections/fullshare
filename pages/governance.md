@@ -41,7 +41,8 @@ spotlight-risk_management:
   button:
     show: true
     url: "#"
-    text: Back to Top
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/tourism/sheraton/4.jpg'
 
 table_color:
@@ -99,7 +100,7 @@ table_color:
       </div>
 
       <ul class="actions vertical">
-        <li><a href="#" class="button">Back to Top</a></li>
+        <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
       </ul>
     </div>
 </section>
@@ -176,7 +177,7 @@ table_color:
       </ul>
 
       <ul class="actions vertical">
-        <li><a href="#" class="button">Back to Top</a></li>
+        <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
       </ul>
     </div>
 </section>
