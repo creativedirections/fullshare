@@ -49,6 +49,8 @@ table_color:
   bg_row_header: "#428bca"
   bg_col_header_1: "#003366"
   bg_col_header_2: "#f5b201"
+
+link_color: "#0a2232"
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
@@ -169,11 +171,11 @@ table_color:
       </div>
 
       <ul class = "alt">
-        <li>List of directors and their roles and functions <a href="../files/Attachment-2_EN.pdf" class="button fit small icon fas fa-download">PDF</a></li>
-        <li>Memorandum of association & Articles of association <a href="../files/6_Memorandum-of-Association-Articles-of-Association.pdf" class="button fit small icon fas fa-download">PDF</a></li>
-        <li>Procedures for Proposing a Person for Election as a Director <a href="../files/7_Procedures-for-Proposing-a-Person-for-Election-as-a-Director.pdf" class="button fit small icon fas fa-download">PDF</a></li>
-        <li>Board Diversity Policy <a href="../files/Board-Diversity-Policy-E.pdf" class="button fit small icon fas fa-download">PDF</a></li>
-        <li>Dividend Policy <a href="../files/Dividend-Policy-E.pdf" class="button fit small icon fas fa-download">PDF</a></li>
+        <li>List of directors and their roles and functions <br><a href="../files/Attachment-2_EN.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
+        <li>Memorandum of association & Articles of association <br><a href="../files/6_Memorandum-of-Association-Articles-of-Association.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
+        <li>Procedures for Proposing a Person for Election as a Director <br><a href="../files/7_Procedures-for-Proposing-a-Person-for-Election-as-a-Director.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
+        <li>Board Diversity Policy <br><a href="../files/Board-Diversity-Policy-E.pdf" class="icon style1 fas fa-download" style="color:{{ page.link_color }};"> PDF</a></li>
+        <li>Dividend Policy <br><a href="../files/Dividend-Policy-E.pdf" class="icon style1 fas fa-download"> PDF</a></li>
       </ul>
 
       <ul class="actions vertical">
