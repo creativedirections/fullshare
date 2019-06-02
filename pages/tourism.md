@@ -8,9 +8,25 @@ banner:
   content:
   button:
     show: true
-    url: "#laguna"
+    url: "#sheraton"
     text: Continue
   image_url: '../images/business/tourism/laguna/1.jpg'
+
+spotlight-sheraton:
+  title: Sheraton
+  content: |
+    <p><b>Sheraton Mirage Hotel</b></p>
+    <p>[expand]</p>
+    <p>Officially operated in 1987, Sheraton Mirage Hotel has been a world-class prestigious tropical holiday paradise. The hotel has hosted many renowned dignitaries and celebrities including the former Chinese President Jiang Zemin, the former United States President Bill Clinton, the famous American actor Tom Hanks and John Travolta, the famous British singer Mick Jagger, the German supermodel Claudia Schiffer, etc.</p>
+
+    <p>Featured by the globally renowned tourist destination Great Barrier Reef and Daintree Rainforest, as well as the unique cultural landscape of Port Douglas, it has successfully contributed “Mirage” to become one of the high-end tourist resort brands around the world. Fullshare Holdings Limited has introduced the brand “Mirage” to the high-end tourist and vacation markets in China and other countries.</p>
+    <p>[/expand]</p>
+  button:
+    show: true
+    url: "#"
+    text: #Back to Top
+    custom_class: icon style2 fas fa-chevron-up
+  image_url: '../images/business/tourism/sheraton/4.jpg'
 
 spotlight-laguna:
   title: Laguna
@@ -29,22 +45,6 @@ spotlight-laguna:
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/tourism/laguna/2.jpg'
-
-spotlight-sheraton:
-  title: Sheraton
-  content: |
-    <p><b>Sheraton Mirage Hotel</b></p>
-    <p>[expand]</p>
-    <p>Officially operated in 1987, Sheraton Mirage Hotel has been a world-class prestigious tropical holiday paradise. The hotel has hosted many renowned dignitaries and celebrities including the former Chinese President Jiang Zemin, the former United States President Bill Clinton, the famous American actor Tom Hanks and John Travolta, the famous British singer Mick Jagger, the German supermodel Claudia Schiffer, etc.</p>
-
-    <p>Featured by the globally renowned tourist destination Great Barrier Reef and Daintree Rainforest, as well as the unique cultural landscape of Port Douglas, it has successfully contributed “Mirage” to become one of the high-end tourist resort brands around the world. Fullshare Holdings Limited has introduced the brand “Mirage” to the high-end tourist and vacation markets in China and other countries.</p>
-    <p>[/expand]</p>
-  button:
-    show: true
-    url: "#"
-    text: #Back to Top
-    custom_class: icon style2 fas fa-chevron-up
-  image_url: '../images/business/tourism/sheraton/4.jpg'
 
 spotlight-ortopark:
   title: Orto Park
@@ -68,8 +68,8 @@ spotlight-ortopark:
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
 
 <!-- Properties -->
-{% include _spotlight.html key='spotlight-laguna' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='left' id='laguna' %}
+{% include _spotlight.html key='spotlight-sheraton' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='left' id='sheraton' %}
 
-{% include _spotlight.html key='spotlight-sheraton' style='style1' orient='left' scheme='invert' color='' size='fifty' content_align='right' img_pos='left' id='sheraton' %}
+{% include _spotlight.html key='spotlight-laguna' style='style1' orient='left' scheme='invert' color='' size='fifty' content_align='right' img_pos='left' id='laguna' %}
 
 {% include _spotlight.html key='spotlight-ortopark' style='style1' orient='right' scheme='' color='' size='fifty' content_align='left' img_pos='center' id='ortopark' %}
