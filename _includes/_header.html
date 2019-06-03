@@ -40,7 +40,8 @@
         {% if posts.size > 1 %}
             {% for post in posts %}
               {% if post.lang != page.lang %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button small fit" title="View in {{ site.data.lang[post.lang].label }}">{{ site.data.lag[post.lang].icon }}</a></li>
+        <li><a href="{{ site.baseurl }}{{ post.url }}" class="button small fit" title="View in {{ site.data.lang[post.lang].label }}">
+          {{ site.data.lang[post.lang].icon }}</a></li>
               {% endif %}
             {% endfor %}
         {% endif %}
