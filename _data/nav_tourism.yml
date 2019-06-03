@@ -2,11 +2,11 @@
 - title: Our Business
   path: /home#businesses
 
-- title: Laguna
-  path: /pages/tourism#laguna
-
 - title: Sheraton
   path: /pages/tourism#sheraton
+
+- title: Laguna
+  path: /pages/tourism#laguna
 
 - title: Orto Park
   path: /pages/tourism#ortopark
