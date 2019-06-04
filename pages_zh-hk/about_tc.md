@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 關於我們
-nav_fname: nav_about
+nav_fname: nav_about_tc
 banner:
   title: 公司戰略
   desc:
