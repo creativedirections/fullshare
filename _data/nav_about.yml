@@ -1,26 +1,28 @@
 # pages to appear in navivation
-- title: Management Team
-  path: /pages/about#team
-
-- title: Global Office
-  path: /pages/about#office
-
-
+# - title: Management Team
+#   path: /pages/about#team
 #
-# en:
-#   - title:
-#     path:
-#
-# tc:
-#   - title: 管理團隊
-#     path: /pages_zh-hk/about_tc#team
+# - title: Global Office
+#   path: /pages/about#office
 
-#   - title: 全球辦公室
-#     path: /pages_zh-hk/about_tc#office
 
-# sc:
-#   - title: 管理团队
-#     path: /pages_zh-cn/about_sc#team
+en:
+  - title: Management Team
+    path: /pages/about#team
 
-#   - title: 全球办公室
-#     path: /pages_zh-cn/about_sc#office
+  - title: Global Office
+    path: /pages/about#office
+
+tc:
+  - title: 管理團隊
+    path: /pages_zh-hk/about_tc#team
+
+  - title: 全球辦公室
+    path: /pages_zh-hk/about_tc#office
+
+sc:
+  - title: 管理团队
+    path: /pages_zh-cn/about_sc#team
+
+  - title: 全球办公室
+    path: /pages_zh-cn/about_sc#office
