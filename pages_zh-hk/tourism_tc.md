@@ -63,6 +63,9 @@ spotlight-ortopark:
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/tourism/orto_park/1.jpg'
+
+lang: tc
+lang-ref: tourism.md
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}

@@ -52,6 +52,9 @@ spotlight-hin_feng:
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/education/hin_feng/1.jpg'
+
+lang: en
+lang-ref: education.md
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}

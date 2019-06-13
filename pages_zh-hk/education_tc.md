@@ -13,7 +13,7 @@ banner:
   image_url: '../images/business/education/sparrow_early_learning/2.jpg'
 
 spotlight-sparrow_soccer_school:
-  title: Sparrow Soccer School
+  title: Sparrow足球學校
   content: |
     <p>Sparrow足球學校是東涌最大的足球學校，現有超過200多名學生。學校透過足球訓練，培養兒童身心全面發展，讓他們建立健康生活方式。</p>
 
@@ -52,6 +52,9 @@ spotlight-hin_feng:
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/education/hin_feng/1.jpg'
+
+lang: tc
+lang-ref: education.md
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}

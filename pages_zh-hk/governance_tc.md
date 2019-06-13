@@ -51,6 +51,10 @@ table_color:
   bg_col_header_2: "#f5b201"
 
 link_color: "#0a2232"
+
+lang: tc
+lang-ref: governance.md
+
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}

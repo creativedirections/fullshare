@@ -71,6 +71,9 @@ spotlight-residential:
     text: #Back to Top
     custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/business/property/residential/1.jpg'
+
+lang: sc
+lang-ref: property.md
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
