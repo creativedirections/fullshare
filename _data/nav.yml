@@ -1,39 +1,21 @@
 # pages to appear in navivation
 en:
-  - title: About Us
-    path: /home#aboutus
-
-  - title: Our Business
-    path: /home#businesses
-
-  - title: Corporate Governance
-    path: /home#governance
-
   - title: Contact Us
     path: /home#contact
 
+  - title: Back To Home
+    path: /home
+
 tc:
-  - title: 關於我們
-    path: /home_tc#aboutus
-
-  - title: 我們的業務
-    path: /home_tc#businesses
-
-  - title: 企業管治
-    path: /home_tc#governance
-
   - title: 聯繫我們
     path: /home_tc#contact
 
+  - title: 回到主頁
+    path: /home_tc
+
 sc:
-  - title: 关于我们
-    path: /home_sc#aboutus
-
-  - title: 我们的业务
-    path: /home_sc#businesses
-
-  - title: 企业管治
-    path: /home_sc#governance
-
   - title: 联系我们
     path: /home_sc#contact
+
+  - title: 回到主页
+    path: /home_sc

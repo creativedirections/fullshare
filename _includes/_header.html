@@ -30,6 +30,17 @@
         {% endfor %}
       {% endif %}
 
+      <!-- We will Always load _data.nav.yml (Global Links) -->
+      {% if page.lang %}
+        {% for item in site.data[ "nav" ][page.lang] %}
+        <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+        {% endfor %}
+      {% else %}
+        {% for item in site.data[ "nav" ] %}
+        <li><a href="{{ item.path | prepend: site.baseurl }}" >{{ item.title }}</a></li>
+        {% endfor %}
+      {% endif %}
+
       {% comment %}
       <!-- Make Contact Us regular per Panerai
       <li><a href="{{ site.baseurl }}/home#contact" class="button special smooth-scroll-middle">Contact Us</a></li>
