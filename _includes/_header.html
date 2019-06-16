@@ -30,22 +30,25 @@
         {% endfor %}
       {% endif %}
 
+      {% comment %}
       <!-- Make Contact Us regular per Panerai
       <li><a href="{{ site.baseurl }}/home#contact" class="button special smooth-scroll-middle">Contact Us</a></li>
       -->
       <li><a href="{{ site.baseurl }}/home#contact">Contact Us</a></li>
+      {% endcomment %}
 
       <!--
       Language Support
-        Currently only for Page
+        Currently only for Page & Index
       -->
-      {% if page.layout == 'page' %}
+      {% if page.layout == 'page' or page.layout == 'index' %}
         {% assign posts = site.posts | where: "lang-ref", page.lang-ref | sort: 'lang' %}
         {% if posts.size == 0 %}
             {% assign posts = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
         {% endif %}
         {% if posts.size > 1 %}
-            {% for post in posts %}
+            <!-- the "reversed" in the for loop is to show 'tc' before 'sc' -->
+            {% for post in posts reversed %}
               {% if post.lang != page.lang %}
         <li><a href="{{ site.baseurl }}{{ post.url }}" class="button small fit special" title="View in {{ site.data.lang[post.lang].label }}">
           {{ site.data.lang[post.lang].button }}</a></li>

@@ -9,6 +9,9 @@ en:
   - title: Corporate Governance
     path: /home#governance
 
+  - title: Contact Us
+    path: /home#contact
+
 tc:
   - title: 關於我們
     path: /home_tc#aboutus
@@ -19,6 +22,9 @@ tc:
   - title: 企業管治
     path: /home_tc#governance
 
+  - title: 聯繫我們
+    path: /home_tc#contact
+
 sc:
   - title: 关于我们
     path: /home_sc#aboutus
@@ -28,3 +34,6 @@ sc:
 
   - title: 企业管治
     path: /home_sc#governance
+
+  - title: 联系我们
+    path: /home_sc#contact
