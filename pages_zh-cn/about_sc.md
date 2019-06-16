@@ -38,6 +38,9 @@ banner-office:
     text:
     custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/office_map.png'
+
+lang: sc
+lang-ref: about.md
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}

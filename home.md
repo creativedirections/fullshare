@@ -2,6 +2,9 @@
 layout: index
 title: # should be set by _config
 
+lang: en
+lang-ref: home.md
+
 banner:
   title: Welcome to Fullshare
   desc:

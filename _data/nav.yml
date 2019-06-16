@@ -1,23 +1,21 @@
 # pages to appear in navivation
-- title: About Us
-  path: /home#aboutus
+en:
+  - title: Contact Us
+    path: /home#contact
 
-- title: Our Business
-  path: /home#businesses
+  - title: Back To Home
+    path: /home
 
-- title: Corporate Governance
-  path: /home#governance
+tc:
+  - title: 聯繫我們
+    path: /home_tc#contact
 
+  - title: 回到主頁
+    path: /home_tc
 
-#
-# en:
-#   - title:
-#     path:
-#
-# tc:
-#   - title:
-#     path:
-#
-# sc:
-#   - title:
-#     path:
+sc:
+  - title: 联系我们
+    path: /home_sc#contact
+
+  - title: 回到主页
+    path: /home_sc
