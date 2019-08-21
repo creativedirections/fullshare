@@ -33,7 +33,7 @@ tc:
 
 sc:
   - title: 我们的业务
-    path: /home_cn#businesses
+    path: /home_sc#businesses
 
   - title: 虹悦城
     path: /pages_zh-cn/property_sc#wonder_city
