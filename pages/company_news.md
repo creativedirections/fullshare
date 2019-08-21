@@ -5,7 +5,7 @@ nav_fname: nav_news
 
 
 lang: en
-lang-ref: news.md
+lang-ref: company_news.md
 ---
 
 <section class="wrapper style1 align-center invert">
@@ -16,4 +16,3 @@ lang-ref: news.md
 </section>
 
 {% include news_post.html %}
-
