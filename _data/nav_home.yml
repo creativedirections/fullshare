@@ -9,6 +9,9 @@ en:
   - title: Corporate Governance
     path: /home#governance
 
+  - title: News
+    path: /pages/company_news
+
 tc:
   - title: 關於我們
     path: /home_tc#aboutus
