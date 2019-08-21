@@ -4,7 +4,7 @@ title: Company News
 nav_fname: nav_news
 gallery-news:
   title: Company News
-  content: 
+  content:
   articles:
     - title: 19.08.2018
       content: Fullshare Launches Sparrow Soccer School in Hong Kong
@@ -33,7 +33,7 @@ gallery-news:
       button: Try Me
 
 lang: en
-lang-ref: news.md
+lang-ref: news_gallery.md
 ---
 
 {% include _gallery.html key='gallery-news' style='style2' lightbox=true size='medium' %}
