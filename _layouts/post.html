@@ -36,7 +36,8 @@
     </div>
     <div class="image dusk">
       {% if page.image %}
-      <img src="{{ base }}/images/pages/{{ page.image }}" alt="" />
+      <!--<img src="{{ base }}/images/pages/{{ page.image }}" alt="" />-->
+			<img src="{{ base }}{{ page.image }}" alt="" />
       {% else %}
       <img src="{{ base }}/images/gallery/fulls/03.jpg" alt="" />
       {% endif %}

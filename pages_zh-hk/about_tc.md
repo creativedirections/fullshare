@@ -1,36 +1,36 @@
 ---
 layout: page
-title: About Us
+title: 關於我們
 nav_fname: nav_about
 banner:
-  title: Company Strategy
+  title: 公司戰略
   desc:
   content: |
     <ul>
-      <li>strategically develop in healthcare and renewable energy industries</li>
-      <li>build up both core operation platform and service provider brands</li>
-      <li>acquire high quality brands, link China market with overseas, build up the whole industry link</li>
-      <li>develop both heavy-asset projects and light-asset business</li>
+      <li>以健康產業為戰略發展方向</li>
+      <li>同時打造核心運營平臺及服務內容品牌</li>
+      <li>並購優質品牌，聯接中國與海外市場，並同時進行產業鏈整合</li>
+      <li>重資產專案與輕資產業務並進</li>
     </ul>
   button:
     show: true
     url: "#team"
-    text: Continue
+    text: 了解更多
   image_url: '../images/background.jpg'
 
 banner-office:
-  title: Global Office
+  title: 全球辦公室
   desc:
   content: |
     <ul>
-      <li>Hong Kong</li>
-      <li>Singapore</li>
-      <li>Nanjing</li>
-      <li>Chongqing</li>
-      <li>Guangzhou</li>
-      <li>Shenzhen</li>
-      <li>Brisbane</li>
-      <li>Melbourne</li>
+      <li>香港</li>
+      <li>新加坡</li>
+      <li>南京</li>
+      <li>重慶</li>
+      <li>廣州</li>
+      <li>深圳</li>
+      <li>布里斯班</li>
+      <li>墨爾本</li>
     </ul>
   button:
     show: true
@@ -39,7 +39,7 @@ banner-office:
     custom_class: icon style2 fas fa-chevron-up
   image_url: '../images/office_map.png'
 
-lang: en
+lang: tc
 lang-ref: about.md
 ---
 <!-- Welcome Banner -->
@@ -49,21 +49,21 @@ lang-ref: about.md
 <!-- Wrapper -->
 <section class="wrapper style2 align-center" >
     <div class="inner medium">
-      <h2 >Management Team</h2>
+      <h2 >管理團隊</h2>
 
       <section class="align-left" id = "team" >
-        <h3 class="align-center">Executive Directors</h3>
-        {% include expandable_ppl.html fname='team_exec_dir' %}
+        <h3 class="align-center">執行董事</h3>
+        {% include expandable_ppl.html fname='team_exec_dir_tc' %}
       </section>
 
       <section class="align-left">
-        <h3 class="align-center">Independent Non-executive Directors</h3>
-        {% include expandable_ppl.html fname='team_indy_dir' %}
+        <h3 class="align-center">獨立非執行董事</h3>
+        {% include expandable_ppl.html fname='team_indy_dir_tc' %}
       </section>
 
       <section class="align-left">
-        <h3 class="align-center">Senior Management</h3>
-        {% include expandable_ppl.html fname='team_senior_mgt' %}
+        <h3 class="align-center">高級管理層</h3>
+        {% include expandable_ppl.html fname='team_senior_mgt_tc' %}
       </section>
 
     <ul class="actions vertical">

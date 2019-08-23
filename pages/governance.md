@@ -51,6 +51,9 @@ table_color:
   bg_col_header_2: "#f5b201"
 
 link_color: "#0a2232"
+
+lang: en
+lang-ref: governance.md
 ---
 <!-- Welcome Banner -->
 {% include _banner.html key='' style='style5' scheme='invert' color='' size='fullscreen' content_align='left' img_pos='left' %}
@@ -144,7 +147,7 @@ link_color: "#0a2232"
             <td>Mr. Lau Chi Keung (Chairman)</td>
             <td>Mr. Ji Changqun</td>
             <td>Mr. Tsang Sai Chung</td>
-            <td><a href="../files/3_Term-of-Reference-of-the-Remuneration-Committee-1" class="button fit small icon fas fa-download">PDF</a></td>
+            <td><a href="../files/3_Term-of-Reference-of-the-Remuneration-Committee-1.pdf" class="button fit small icon fas fa-download">PDF</a></td>
           </tr>
           <tr>
             <th scope="row" bgcolor = "{{ page.table_color.bg_row_header }}">Nomination Committee</th>
