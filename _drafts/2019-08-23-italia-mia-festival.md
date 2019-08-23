@@ -1,7 +1,7 @@
 ---
 author: Tom
 comments: true
-button: ''
+button: READ MORE!
 date: 2019-08-23 00:00:00 +0800
 excerpt: Hi guys, there is a new Festival in town coming this Autumn!
 layout: post
