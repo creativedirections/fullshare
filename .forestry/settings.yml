@@ -12,7 +12,7 @@ sections:
   new_doc_ext: yaml
 - type: jekyll-posts
   label: Posts
-  create: all
+  create: documents
 upload_dir: files/forestry_uploads
 public_path: "/files/forestry_uploads"
 front_matter_path: ''
