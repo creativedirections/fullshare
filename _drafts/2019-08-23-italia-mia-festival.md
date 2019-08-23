@@ -12,4 +12,4 @@ image: "/files/forestry_uploads/ITALIA-MIA-Slideshow.png"
 ---
 **Hi guys, there is a new Festival in town coming this Autumn!**
 
-**ITALIA MIA Festival**, art, music, [performances](), opera, sport, all Italian-Style!
+**ITALIA MIA Festival**, art, music, [performances](https://www.italiamiafestival.com/), opera, sport, all Italian-Style!
