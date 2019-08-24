@@ -8,6 +8,7 @@ fields:
 - type: boolean
   name: comments
   label: comments
+  hidden: true
 - type: text
   name: button
   label: button
@@ -42,12 +43,13 @@ fields:
   config:
     required: false
   label: lang-ref
-  description: lang-ref is the key that ties multi-lingual posts together
+  description: something unique & descriptive but not too long. lang-ref is the key
+    that ties multi-lingual posts together
 - name: lang
   type: select
-  default: ''
+  default: en
   config:
-    required: false
+    required: true
     options:
     - en
     - tc
