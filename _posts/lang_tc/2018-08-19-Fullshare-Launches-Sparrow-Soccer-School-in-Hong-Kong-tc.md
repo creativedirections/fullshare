@@ -8,7 +8,7 @@ layout: post
 title: "Fullshare Launches Sparrow Soccer School in Hong Kong"
 categories:
 image: "/images/news/Sparrow-Soccer-School-1-768x576.jpg"
-lang: 'en'
+lang: 'tc'
 lang-ref: news_20180819
 ---
 

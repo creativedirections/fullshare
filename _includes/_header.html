@@ -50,9 +50,9 @@
 
       <!--
       Language Support
-        Currently only for Page & Index
+        Currently only for Page & Index & post
       -->
-      {% if page.layout == 'page' or page.layout == 'index' %}
+      {% if page.layout == 'page' or page.layout == 'index' or page.layout =='post' %}
         {% assign posts = site.posts | where: "lang-ref", page.lang-ref | sort: 'lang' %}
         {% if posts.size == 0 %}
             {% assign posts = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
