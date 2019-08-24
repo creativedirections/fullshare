@@ -25,6 +25,7 @@ fields:
   default: post
   config:
     required: true
+  description: don't change the default unless you know what you are doing
 - type: text
   name: title
   label: title
@@ -36,5 +37,27 @@ fields:
 - type: file
   name: image
   label: image
+- name: lang-ref
+  type: text
+  config:
+    required: false
+  label: lang-ref
+  description: lang-ref is the key that ties multi-lingual posts together
+- name: lang
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - en
+    - tc
+    - sc
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: lang
+  description: en = English, tc = traditional chinese, sc = simplified chinese
 pages:
 - _posts/2019-08-23-italia-mia-festival.md
