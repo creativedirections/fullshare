@@ -1,30 +1,32 @@
 ---
-author:
+author: 
 comments: false
 button: Click
 date: 2018-08-19
-excerpt: <p>To Promote Healthy Lifestyle among Children</p>
+excerpt: 向儿童推广健康生活方式
 layout: post
-title: "Fullshare Launches Sparrow Soccer School in Hong Kong"
-categories:
+title: 丰盛控股于香港合作成立Sparrow足球学校
+categories: 
 image: "/images/news/Sparrow-Soccer-School-1-768x576.jpg"
-lang: 'sc'
+lang: sc
 lang-ref: news_20180819
+
 ---
+(2018年8月18日- 香港) 丰盛控股有限公司连同旗下之澳洲Sparrow儿童教育集团，与La Cantera 足球学校合作，为3-12岁的儿童提供足球班及训练营，同时宣布将足球学校命名为「Sparrow足球学校」。 Sparrow足球学校现有超过200 多名学生，是东涌最大的足球学校，学校将透过足球训练，培养儿童身心全面发展，让他们建立健康生活方式。
 
-<p>(18 August 2018, Hong Kong) Fullshare Holdings Limited and Sparrow Early Learning, a subsidiary of Fullshare, have partnered with La Cantera Soccer School to provide soccer training classes and camps for children aged 3 to 12 under the school’s new branding, Sparrow Soccer School. Sparrow Soccer School is the largest soccer school in Tung Chung with over 200 students forming a community that nurtures physical, social and emotional development of children as part of a healthy lifestyle.</p>
+Sparrow足球学校首席教练Oscar Benavides拥有欧洲足联A级教练牌照, 并在香港执教超过17年。他曾以半职业身份为不同香港足总注册的球队效力。
 
-<p>The head coach of Sparrow Soccer School, Mr. Oscar Benavides is a UEFA A licensed qualified coach. He has been coaching in Hong Kong for over 17 years and has also played semi-professionally for several registered HKFA soccer teams.</p>
+丰盛控股投资部联席总监Jonathan Broughton 先生表示：「我们非常荣幸宣布Sparrow足球学校在香港成立。继丰盛控股成为国际米兰官方教育合作伙伴，并成立国际米兰澳大利亚足球学院，是次Sparrow足球学校在香港成立再次印证公司致力于通过推广体育活动，促进儿童的身心全面健康发展。我们相信，体育教育不仅能强身健体，更能通过提高儿童的情商、自信心、社交技巧、自律性及团队合作精神，促进儿童的社交能力和情绪发展。」
 
-<p>Co-head of Investment Department of Fullshare, Mr. Jonathan Broughton stated that, “we are proud to announce the launch of the Sparrow Soccer School in Hong Kong. This follows the establishment of the Inter Academy Australia, which Fullshare initiated as part of its role as official education partner of FC Internazionale Milano. Fullshare continues to demonstrate its commitment to promoting the holistic development of children through the medium of sport. We believe that sports education provides students with the opportunity to advance their emotional and social development, by improving self-esteem and confidence, social skills, discipline and team work, in addition to the purely physical benefits.”</p>
+Oscar Benavides先生表示：「我们坚信最好的学习方法就是寓学习于乐。我们很高兴能与澳洲领先的幼儿教育机构Sparrow合作，共同为每一位孩子创造快乐的童年。此次合作有望为学校引入优质的资源，并让我们的学生拓展国际视野，并获得更佳的发展机会。」
 
-<p>Mr. Oscar Benavides stated that, “our philosophy is that children learn best when they are having fun. We are delighted to work with Sparrow Early Learning, one of the leading early education providers in Australia, who echoes our value of creating a happy childhood for every child. The partnership is expected to bring improved resources and allow more opportunities for our students to prosper and grow on an international scale.”</p>
+**关于丰盛控股有限公司（股份代号：0607）**
 
-<p><strong><u>About Fullshare Holdings Limited (Stock Code: 607)</u></strong></p>
-<p>Fullshare Holdings Limited is an international conglomerate listed in Hong Kong. The Company’s business segments include renewable energy, tourism, education, and real estate. Fullshare is focused on growing its Tourism and Education business segments in the future.</p>
+丰盛控股有限公司为一间于香港联交所上市的国际综合性企业。集团业务包括可再生能源、旅游、教育和地产。丰盛未来将主要发展其旅游及教育业务。
 
-<p><strong><u>About Sparrow Early Learning Pty Ltd.</u></strong></p>
-<p>Sparrow Early Learning Pty Ltd., headquartered in Brisbane, Australia, operates approximately 30 childcare centers in Queensland and Victoria. Sparrow’s centers cater to children from the ages of six months to six years old. Sparrow is a subsidiary of Fullshare Holdings Limited.</p>
+**关于Sparrow Early Learning Pty Ltd.**
+
+Sparrow儿童教育集团的总部位于澳大利亚布里斯班，其于昆士兰州和维多利亚州运营约30个儿童托管中心。 Sparrow托管中心的服务对象主要为6个月至6岁的儿童。 Sparrow儿童教育集团为丰盛控股旗下之子公司。
 
 <p><img src="../images/news/Sparrow-Soccer-School-1-768x576.jpg" alt="" sizes="(max-width: 525px) 100vw, 525px"></p>
 
