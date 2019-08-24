@@ -66,6 +66,15 @@ spotlight-governance:
     text: 了解更多
   image_url: 'images/business/tourism/sheraton/4.jpg'
 
+spotlight-news:
+  title: 公司新聞
+  content:
+  button:
+    show: true
+    url: "pages_zh-hk/company_news_tc"
+    text: 了解更多
+  image_url: "/images/news/Sparrow-Soccer-School-1-768x576.jpg"
+
 items-contact:
   title: 聯繫我們
   content: 媒體及投資者查詢
@@ -100,6 +109,8 @@ items-contact:
 <!-- Corporate Goverance -->
 {% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='governance' %}
 
+<!-- Company News -->
+{% include _spotlight.html key='spotlight-news' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='center' id='news' %}
 
 <!-- Contact Us -->
 {% include _items.html key='items-contact' style='style3' size='small' id='contact' %}

@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Company News
+title: 公司新聞
 nav_fname: nav_news
 
 news_post:
-  title: Company News
+  title: 公司新聞
 
-lang: en
+lang: tc
 lang-ref: company_news.md
 ---
+
 {% include news_post.html key='news_post'%}

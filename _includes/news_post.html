@@ -1,5 +1,14 @@
+{% assign _data = page[include.key] %}
+{% if _data %}{% else %}{% assign _data = page.news_post %}{% endif %}
+
 <section class="wrapper style1 align-center invert">
-	<!-- Gallery -->
+		<div class="inner">
+				<p></p>
+				<p></p>
+				<h2>{{ _data.title }}</h2>
+		</div>
+
+	<!-- news_post -->
 	<div class="gallery style2 medium lightbox onscroll-fade-in">
 			{% for post in site.posts limit:site.front-page-posts %}
 			{% unless post.path contains 'lang_tc' or post.path contains 'lang_sc' %}
