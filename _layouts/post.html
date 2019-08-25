@@ -14,7 +14,7 @@
 			<div id="wrapper" class="divided">
 
 		<!-- Header; with navigation Menu -->
-		{% include _header.html fname = "nav" %}
+		{% include _header.html %}
 
 {% assign author = site.data.authors[page.author] %}
 {% assign minutes = content | strip_html | number_of_words | divided_by: 180 %}
