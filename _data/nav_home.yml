@@ -10,7 +10,7 @@ en:
     path: /home#governance
 
   - title: News
-    path: /home#news
+    path: /pages/company_news
 
 tc:
   - title: 關於我們
@@ -23,7 +23,7 @@ tc:
     path: /home_tc#governance
 
   - title: 公司新聞
-    path: /home_tc#news
+    path: /pages_zh-hk/company_news_tc
 
 sc:
   - title: 关于我们
@@ -36,4 +36,4 @@ sc:
     path: /home_sc#governance
 
   - title: 公司新闻
-    path: /home_sc#news
+    path: /pages_zh-cn/company_news_sc
