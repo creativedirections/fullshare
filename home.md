@@ -110,7 +110,9 @@ items-contact:
 {% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='governance' %}
 
 <!-- Company News -->
+{% comment %}
 {% include _spotlight.html key='spotlight-news' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='center' id='news' %}
+{% endcomment %}
 
 <!-- Contact Us -->
 {% include _items.html key='items-contact' style='style3' size='small' id='contact' %}
