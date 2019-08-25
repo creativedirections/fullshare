@@ -62,4 +62,5 @@ fields:
   label: lang
   description: en = English, tc = traditional chinese, sc = simplified chinese
 pages:
+- _posts/lang_sc/国米足球俱乐部官方合作伙伴丰盛控股及sparrow儿童教育集团与国米足球俱乐部共同携手.md
 - _posts/2019-08-23-italia-mia-festival.md
