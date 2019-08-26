@@ -2,30 +2,27 @@
 author: 
 comments: false
 button: Click
-date: 2018-08-19
-excerpt: "<p>To Promote Healthy Lifestyle among Children</p>"
+date: 2018-04-09 00:00:00 +0800
+excerpt: "<p>To let the children experience a live sporting match from a premium spot</p>"
 layout: post
-title: Fullshare Launches Sparrow Soccer School in Hong Kong
+title: Fullshare hosted Sheng Kung Hui St. Christopher’s Home at the Cathay Pacific/HSBC
+  Hong Kong Sevens 2018
 categories: 
-image: "/images/news/Sparrow-Soccer-School-1-768x576.jpg"
+image: ''
 lang: en
 lang-ref: news_20180819
 
 ---
-<p>(18 August 2018, Hong Kong) Fullshare Holdings Limited and Sparrow Early Learning, a subsidiary of Fullshare, have partnered with La Cantera Soccer School to provide soccer training classes and camps for children aged 3 to 12 under the school’s new branding, Sparrow Soccer School. Sparrow Soccer School is the largest soccer school in Tung Chung with over 200 students forming a community that nurtures physical, social and emotional development of children as part of a healthy lifestyle.</p>
+<p>(9 April, 2018 – Hong Kong) – Fullshare Holdings Limited (“Fullshare” or the “Company” and, together with its subsidiaries, the “Group”, stock code: 00607) hosted a party on 6 April for children from Sheng Kung Hui St. Christopher’s Home (“SKH St. Christopher’s Home”) at the Hong Kong Sevens 2018 together with volunteers from Fullshare and Sparrow Early Learning Pty Ltd (“Sparrow”), a subsidiary of Fullshare and one of Australia’s leading early education and care providers.</p>
 
-<p>The head coach of Sparrow Soccer School, Mr. Oscar Benavides is a UEFA A licensed qualified coach. He has been coaching in Hong Kong for over 17 years and has also played semi-professionally for several registered HKFA soccer teams.</p>
+<p>SKH St. Christopher’s Home provides residential child care service and after school care service to over 500 children and youngsters in Hong Kong each year. Fullshare invited children from SKH St. Christopher’s Home to the Company’s VIP suite to experience the atmosphere of the Cathay Pacific/HSBC Hong Kong Sevens. The invitation provided the children, who would not normally have an opportunity to experience a live sporting match with a chance to enjoy the exciting rugby tournament and indulge in the carnival atmosphere.</p>
 
-<p>Co-head of Investment Department of Fullshare, Mr. Jonathan Broughton stated that, “we are proud to announce the launch of the Sparrow Soccer School in Hong Kong. This follows the establishment of the Inter Academy Australia, which Fullshare initiated as part of its role as official education partner of FC Internazionale Milano. Fullshare continues to demonstrate its commitment to promoting the holistic development of children through the medium of sport. We believe that sports education provides students with the opportunity to advance their emotional and social development, by improving self-esteem and confidence, social skills, discipline and team work, in addition to the purely physical benefits.”</p>
+<p>Fullshare invited volunteers from the University Rugby Football Club who explained the basic rules and highlights of rugby to attentive children. Fullshare and Sparrow volunteers enjoyed the exciting rugby games with the children and cheered on the participating teams in their matches.</p>
 
-<p>Mr. Oscar Benavides stated that, “our philosophy is that children learn best when they are having fun. We are delighted to work with Sparrow Early Learning, one of the leading early education providers in Australia, who echoes our value of creating a happy childhood for every child. The partnership is expected to bring improved resources and allow more opportunities for our students to prosper and grow on an international scale.”</p>
+<p>Co-head of Investment Department of Fullshare, Mr. Jonathan Broughton stated that, “We pay close attention to the developmental needs of children. We cherished the opportunity to partner with SKH St. Christopher’s Home and hope their children enjoyed the live sporting event atmosphere, which is an experience that we hope can continue to inspire and motivate them. Fullshare will continue to support children’s charity to demonstrate our pledge in serving society.”</p>
 
-<p><strong><u>About Fullshare Holdings Limited (Stock Code: 607)</u></strong></p>
-<p>Fullshare Holdings Limited is an international conglomerate listed in Hong Kong. The Company’s business segments include renewable energy, tourism, education, and real estate. Fullshare is focused on growing its Tourism and Education business segments in the future.</p>
+<p>Chief Executive Officer of Sparrow Early Learning Pty Ltd, Mr. John Bairstow stated that, “We are delighted to have to enjoyed the games with the wonderful children from SKH St. Christopher’s Home. Engaging children in the exciting and interesting activities is one of the best ways to cultivate an interest and develop potentials, which is in line with Sparrow’s philosophy that every child deserves the right to a happy childhood.”</p>
 
-<p><strong><u>About Sparrow Early Learning Pty Ltd.</u></strong></p>
-<p>Sparrow Early Learning Pty Ltd., headquartered in Brisbane, Australia, operates approximately 30 childcare centers in Queensland and Victoria. Sparrow’s centers cater to children from the ages of six months to six years old. Sparrow is a subsidiary of Fullshare Holdings Limited.</p>
+![](/files/forestry_uploads/CSR_1-1024x768.jpg)
 
-<p><img src="../images/news/Sparrow-Soccer-School-1-768x576.jpg" alt="" sizes="(max-width: 525px) 100vw, 525px"></p>
-
-<p><img src="../images/news/Sparrow-Soccer-School-2-768x576.jpg" alt="" sizes="(max-width: 525px) 100vw, 525px"></p>
+![](/files/forestry_uploads/CSR_2-1024x768.jpg)
