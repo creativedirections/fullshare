@@ -10,4 +10,4 @@ lang: tc
 lang-ref: company_news.md
 ---
 
-{% include news_post.html key='news_post'%}
+{% include news_post.html key='news_post' lang = 'tc' %}
