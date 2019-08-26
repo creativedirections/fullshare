@@ -2,30 +2,21 @@
 author: 
 comments: false
 button: Click
-date: 2018-08-19
+date: 2018-03-28 00:00:00 +0800
 excerpt: "<p>To Promote Healthy Lifestyle among Children</p>"
 layout: post
-title: Fullshare Launches Sparrow Soccer School in Hong Kong
+title: Fullshare Named the Official Tourism Partner of the Cathay Pacific/HSBC Hong
+  Kong Sevens 2018
 categories: 
 image: "/images/news/Sparrow-Soccer-School-1-768x576.jpg"
 lang: en
 lang-ref: news_20180819
 
 ---
-<p>(18 August 2018, Hong Kong) Fullshare Holdings Limited and Sparrow Early Learning, a subsidiary of Fullshare, have partnered with La Cantera Soccer School to provide soccer training classes and camps for children aged 3 to 12 under the school’s new branding, Sparrow Soccer School. Sparrow Soccer School is the largest soccer school in Tung Chung with over 200 students forming a community that nurtures physical, social and emotional development of children as part of a healthy lifestyle.</p>
+<p>(28 March 2018 – Hong Kong) – Fullshare Holdings Limited (“Fullshare” or the “Company” and, together with its subsidiaries, the “Group”, stock code: 00607) is delighted to be named the official tourism partner of the Cathay Pacific/HSBC Hong Kong Sevens 2018. Fullshare will support the world’s premier rugby event, which will be held in the magnificent Hong Kong Stadium from 6 April to 8 April 2018.</p>
 
-<p>The head coach of Sparrow Soccer School, Mr. Oscar Benavides is a UEFA A licensed qualified coach. He has been coaching in Hong Kong for over 17 years and has also played semi-professionally for several registered HKFA soccer teams.</p>
+<p>As one of the biggest rugby events on the international sporting and entertainment calendar, the Cathay Pacific/HSBC Hong Kong Sevens is “Where the World Comes to Play” and attracts fans from every corner of the globe to watch some of the world’s greatest rugby players compete in the HSBC Sevens World Series. With more than 36 hours of world-class sports and entertainment, the Hong Kong Sevens is expected to attract over 120,000 spectators including high-spending overnight visitors fuelling the growth of tourism and associated industries in Hong Kong.</p>
 
-<p>Co-head of Investment Department of Fullshare, Mr. Jonathan Broughton stated that, “we are proud to announce the launch of the Sparrow Soccer School in Hong Kong. This follows the establishment of the Inter Academy Australia, which Fullshare initiated as part of its role as official education partner of FC Internazionale Milano. Fullshare continues to demonstrate its commitment to promoting the holistic development of children through the medium of sport. We believe that sports education provides students with the opportunity to advance their emotional and social development, by improving self-esteem and confidence, social skills, discipline and team work, in addition to the purely physical benefits.”</p>
+<p>**Co-head of Investment Department of Fullshare, Mr. Jonathan Broughton** stated that, “_We are honored to become the official tourism partner of the Cathay Pacific/HSBC Hong Kong Sevens. Fullshare currently operates a number of well-known tourism businesses in Australia and Singapore. Fullshare also has direct or indirect investment in several well-known online travel agencies platforms in China market. We are now focused on developing our tourism portfolio globally. By boosting the awareness and support of world-class tourism events, the Group makes available to the market our development strategies and latest business updates, generating brand awareness and promoting transparency._”</p>
 
-<p>Mr. Oscar Benavides stated that, “our philosophy is that children learn best when they are having fun. We are delighted to work with Sparrow Early Learning, one of the leading early education providers in Australia, who echoes our value of creating a happy childhood for every child. The partnership is expected to bring improved resources and allow more opportunities for our students to prosper and grow on an international scale.”</p>
-
-<p><strong><u>About Fullshare Holdings Limited (Stock Code: 607)</u></strong></p>
-<p>Fullshare Holdings Limited is an international conglomerate listed in Hong Kong. The Company’s business segments include renewable energy, tourism, education, and real estate. Fullshare is focused on growing its Tourism and Education business segments in the future.</p>
-
-<p><strong><u>About Sparrow Early Learning Pty Ltd.</u></strong></p>
-<p>Sparrow Early Learning Pty Ltd., headquartered in Brisbane, Australia, operates approximately 30 childcare centers in Queensland and Victoria. Sparrow’s centers cater to children from the ages of six months to six years old. Sparrow is a subsidiary of Fullshare Holdings Limited.</p>
-
-<p><img src="../images/news/Sparrow-Soccer-School-1-768x576.jpg" alt="" sizes="(max-width: 525px) 100vw, 525px"></p>
-
-<p><img src="../images/news/Sparrow-Soccer-School-2-768x576.jpg" alt="" sizes="(max-width: 525px) 100vw, 525px"></p>
+<p>Mr. Jonathan Broughton added, “_Another main business focus of the Group is early education. Sparrow Early Learning Pty Ltd, a subsidiary of the Group, now operates 28 childcare centres in Queensland and Victoria in Australia. We pay close attention to the nurture and development of children and youngsters’ education around the world. At the Hong Kong Sevens 2018, we will be hosting an event with Sheng Kung Hui St. Christopher’s Home to provide foster children and youngsters an opportunity to enjoy the rugby tournament, which has its own carnival atmosphere we hope they can bring home with them afterwards._”</p>
