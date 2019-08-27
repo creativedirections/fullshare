@@ -12,6 +12,7 @@ fields:
 - type: text
   name: button
   label: button
+  hidden: true
 - type: datetime
   name: date
   label: date
