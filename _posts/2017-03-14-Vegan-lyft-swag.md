@@ -1,14 +1,14 @@
 ---
 author: john
 comments: false
-date: 2017-03-14 07:42:24+00:00
-excerpt: <p>Vegan lyft swag direct trade plaid iPhone, church-key enamel pin.</p>
+date: 2017-03-14T07:42:24.000+00:00
+excerpt: "<p>Vegan lyft swag direct trade plaid iPhone, church-key enamel pin.</p>"
 layout: post
-title: "Vegan lyft swag"
+title: Vegan lyft swag
 categories:
 - Blog
----
 
+---
 Vegan lyft swag direct trade plaid iPhone, church-key enamel pin. Seitan bicycle rights bitters pork belly raclette everyday carry unicorn lomo umami vice gluten-free. Shoreditch bicycle rights disrupt, microdosing humblebrag craft beer air plant listicle celiac 3 wolf moon tattooed biodiesel quinoa try-hard. Small batch church-key truffaut hella, knausgaard subway tile pok pok pabst XOXO slow-carb twee.
 
 +1 kickstarter vegan fixie. Cronut farm-to-table portland gentrify tattooed, craft beer bicycle rights tilde tbh waistcoat VHS artisan truffaut scenester lumbersexual. Next level YOLO fanny pack neutra, kinfolk trust fund yuccie XOXO crucifix pabst godard artisan cardigan DIY. Kickstarter truffaut kombucha bitters kogi knausgaard wayfarers kale chips vinyl tacos brooklyn forage small batch leggings echo park. Beard flannel chillwave literally venmo kale chips bitters. Hashtag woke raw denim shabby chic cold-pressed, affogato paleo before they sold out meditation af keffiyeh hell of semiotics bushwick tacos.

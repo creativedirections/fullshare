@@ -1,14 +1,14 @@
 ---
 author: john
 comments: false
-date: 2017-02-26 20:55:01+00:00
-excerpt: <p>I'm an excerpt.</p>
+date: 2017-02-26T20:55:01.000+00:00
+excerpt: "<p>I'm an excerpt.</p>"
 layout: post
-title: "Tumeric fingerstache cornhole"
+title: Tumeric fingerstache cornhole
 categories:
 - Blog
----
 
+---
 Woke af skateboard pinterest crucifix yuccie austin blog salvia. Snackwave semiotics green juice artisan, migas retro lumbersexual chicharrones cray four dollar toast cred chillwave. Skateboard PBR&B shoreditch occupy leggings fashion axe, snackwave raw denim hashtag brooklyn viral trust fund iPhone. 8-bit live-edge echo park everyday carry. Af tote bag four loko pok pok, slow-carb sriracha portland.
 
 Keytar wayfarers knausgaard, prism hammock aesthetic lyft four dollar toast. VHS cold-pressed lo-fi, cray raw denim seitan coloring book letterpress normcore viral ramps chia vice. Hexagon hammock vape, glossier intelligentsia jianbing lumbersexual man braid XOXO synth blog asymmetrical copper mug slow-carb heirloom. Beard whatever dreamcatcher williamsburg affogato. Locavore crucifix prism, 8-bit poke air plant bushwick gastropub bitters brooklyn chambray blog XOXO flannel. Vinyl meggings vape paleo organic vegan bespoke banh mi taiyaki occupy tilde messenger bag. Narwhal mlkshk poke 90's.

@@ -1,14 +1,15 @@
 ---
 author: john
 comments: false
-date: 2017-05-26 20:55:01+00:00
-excerpt: <p>Fanny pack roof party hexagon pour-over drinking vinegar flannel skateboard swag sartorial four dollar toast air plant heirloom franzen.</p>
+date: 2017-05-26T20:55:01.000+00:00
+excerpt: "<p>Fanny pack roof party hexagon pour-over drinking vinegar flannel skateboard
+  swag sartorial four dollar toast air plant heirloom franzen.</p>"
 layout: post
-title: "Fanny pack roof"
+title: Fanny pack roof
 categories:
 - Blog
----
 
+---
 Fanny pack roof party hexagon pour-over drinking vinegar flannel skateboard swag sartorial four dollar toast air plant heirloom franzen. Farm-to-table adaptogen ugh seitan. Authentic tacos DIY normcore farm-to-table ramps knausgaard blue bottle umami. Vinyl leggings selfies fixie bicycle rights.
 
 Banh mi master cleanse squid kitsch gluten-free tousled narwhal jianbing edison bulb twee hoodie. Taxidermy tbh shaman meggings synth, jean shorts chia taiyaki pickled. Farm-to-table next level ugh, locavore artisan bespoke chartreuse yr drinking vinegar gluten-free vinyl vexillologist scenester fashion axe. Humblebrag chambray health goth bespoke hot chicken green juice.

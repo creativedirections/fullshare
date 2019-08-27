@@ -1,14 +1,14 @@
 ---
 author: john
 comments: false
-date: 2017-01-26 20:55:01+00:00
-excerpt: <p>vice raw denim activated charcoal whatever.</p>
+date: 2017-01-26T20:55:01.000+00:00
+excerpt: "<p>vice raw denim activated charcoal whatever.</p>"
 layout: post
-title: "vice raw denim activated"
+title: vice raw denim activated
 categories:
 - Blog
----
 
+---
 Unicorn selvage scenester, tilde activated charcoal kickstarter wolf venmo. Tattooed raw denim beard gochujang craft beer, blue bottle tbh. Shaman cold-pressed bespoke fanny pack. Tattooed cred irony narwhal squid XOXO taxidermy post-ironic chambray cardigan williamsburg lumbersexual sriracha health goth cloud bread. Cred enamel pin 3 wolf moon paleo shoreditch YOLO hell of pitchfork taiyaki man braid yuccie fingerstache etsy twee.
 
 Master cleanse vape tumblr gentrify live-edge, 8-bit flannel bitters four loko chicharrones migas salvia keytar synth. Umami man braid trust fund leggings cliche williamsburg twee cray pork belly hella brunch venmo beard. Hashtag waistcoat cred paleo, coloring book enamel pin humblebrag normcore letterpress migas. Salvia pitchfork ugh, chicharrones brunch lyft occupy. Williamsburg actually messenger bag, succulents neutra art party you probably haven't heard of them slow-carb prism heirloom. Mustache locavore tousled waistcoat jean shorts.
