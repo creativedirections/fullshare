@@ -39,6 +39,7 @@ fields:
 - type: file
   name: image
   label: image
+  default: "/files/forestry_uploads/03.jpg"
 - name: lang-ref
   type: text
   config:
