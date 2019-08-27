@@ -1,5 +1,5 @@
 ---
-author: 
+author:
 comments: false
 button: Click
 date: 2018-05-20 00:00:00 +0800
@@ -8,11 +8,11 @@ excerpt: "<p>To provide children an invaluable opportunity to access sports educ
 layout: post
 title: Fullshare Has Been Named Official Education Partner of F.C. Internazionale
   Milano S.p.A.
-categories: 
+categories:
 image: "/images/news/Sparrow-Soccer-School-1-768x576.jpg"
 lang: en
-lang-ref: news_20180819
-
+lang-ref: news_20180520
+nav_name: nav_news
 ---
 <p>(20 May 2018 – Hong Kong) **Fullshare Holdings Limited** (Stock Code: 607.HK) is proud to become an official education partner of F.C. Internazionale Milano S.p.A as of 18 May. Fullshare is exploring joint initiatives in the education industry in the Asia Pacific region.</p>
 

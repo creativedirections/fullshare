@@ -1,16 +1,16 @@
 ---
-author: 
+author:
 comments: false
 button: Click
 date: 2018-08-19
 excerpt: 向儿童推广健康生活方式
 layout: post
 title: 丰盛控股于香港合作成立Sparrow足球学校
-categories: 
+categories:
 image: "/images/news/Sparrow-Soccer-School-1-768x576.jpg"
 lang: sc
 lang-ref: news_20180819
-
+nav_name: nav_news
 ---
 (2018年8月18日- 香港) 丰盛控股有限公司连同旗下之澳洲Sparrow儿童教育集团，与La Cantera 足球学校合作，为3-12岁的儿童提供足球班及训练营，同时宣布将足球学校命名为「Sparrow足球学校」。 Sparrow足球学校现有超过200 多名学生，是东涌最大的足球学校，学校将透过足球训练，培养儿童身心全面发展，让他们建立健康生活方式。
 

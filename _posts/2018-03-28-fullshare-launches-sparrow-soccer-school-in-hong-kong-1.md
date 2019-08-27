@@ -1,5 +1,5 @@
 ---
-author: 
+author:
 comments: false
 button: Click
 date: 2018-03-28 00:00:00 +0800
@@ -8,11 +8,11 @@ excerpt: "<p>By boosting the awareness and support of world-class tourism events
 layout: post
 title: Fullshare Named the Official Tourism Partner of the Cathay Pacific/HSBC Hong
   Kong Sevens 2018
-categories: 
-image: ''
+categories:
+image:
 lang: en
-lang-ref: news_20180819
-
+lang-ref: news_20180328
+nav_name: nav_news
 ---
 <p>(28 March 2018 – Hong Kong) – Fullshare Holdings Limited (“Fullshare” or the “Company” and, together with its subsidiaries, the “Group”, stock code: 00607) is delighted to be named the official tourism partner of the Cathay Pacific/HSBC Hong Kong Sevens 2018. Fullshare will support the world’s premier rugby event, which will be held in the magnificent Hong Kong Stadium from 6 April to 8 April 2018.</p>
 

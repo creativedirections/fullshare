@@ -1,5 +1,5 @@
 ---
-author: 
+author:
 comments: false
 button: Click
 date: 2018-06-27 00:00:00 +0800
@@ -8,11 +8,11 @@ excerpt: "<p>To provide young people the access to a World-famous Football Club,
 layout: post
 title: Fullshare Holdings and Sparrow Early Learning join forces with FC Internazionale
   Milano as Official Education Partner
-categories: 
-image: ''
+categories:
+image: "/files/forestry_uploads/inter5-1024x683.jpg"
 lang: en
-lang-ref: news_20180819
-
+lang-ref: news_20180627
+nav_name: nav_news
 ---
 <p>(27 June 2018 – Australia) Fullshare Holdings Limited (“Fullshare”) kicked off its partnership with FC Internazionale Milano (“Inter Milan”) by launching Inter Academy Australia, the first Inter Milan football academy located in Australia, targeted at kids aged 3 to 15 years old.</p>
 

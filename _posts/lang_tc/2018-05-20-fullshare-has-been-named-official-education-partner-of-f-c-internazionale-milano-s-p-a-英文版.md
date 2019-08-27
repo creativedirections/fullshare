@@ -11,7 +11,7 @@ title: Fullshare Has Been Named Official Education Partner of F.C. Internazional
 categories: ''
 image: ''
 lang-ref: news_20180520
-
+nav_name: nav_news
 ---
 (20 May 2018 – Hong Kong) **Fullshare Holdings Limited** (Stock Code: 607.HK) is proud to become an official education partner of F.C. Internazionale Milano S.p.A as of 18 May. Fullshare is exploring joint initiatives in the education industry in the Asia Pacific region.
 

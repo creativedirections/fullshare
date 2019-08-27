@@ -1,5 +1,5 @@
 ---
-author: 
+author:
 comments: false
 button: Click
 date: 2018-04-09 00:00:00 +0800
@@ -7,11 +7,11 @@ excerpt: "<p>To let the children experience a live sporting match from a premium
 layout: post
 title: Fullshare hosted Sheng Kung Hui St. Christopher’s Home at the Cathay Pacific/HSBC
   Hong Kong Sevens 2018
-categories: 
-image: ''
+categories:
+image: "/files/forestry_uploads/CSR_1-1024x768.jpg"
 lang: en
-lang-ref: news_20180819
-
+lang-ref: news_20180409
+nav_name: nav_news
 ---
 <p>(9 April, 2018 – Hong Kong) – Fullshare Holdings Limited (“Fullshare” or the “Company” and, together with its subsidiaries, the “Group”, stock code: 00607) hosted a party on 6 April for children from Sheng Kung Hui St. Christopher’s Home (“SKH St. Christopher’s Home”) at the Hong Kong Sevens 2018 together with volunteers from Fullshare and Sparrow Early Learning Pty Ltd (“Sparrow”), a subsidiary of Fullshare and one of Australia’s leading early education and care providers.</p>
 

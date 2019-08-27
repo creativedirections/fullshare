@@ -10,6 +10,7 @@ categories:
 image: "/images/news/Sparrow-Soccer-School-1-768x576.jpg"
 lang: 'en'
 lang-ref: news_20180819
+nav_name: nav_news
 ---
 
 <p>(18 August 2018, Hong Kong) Fullshare Holdings Limited and Sparrow Early Learning, a subsidiary of Fullshare, have partnered with La Cantera Soccer School to provide soccer training classes and camps for children aged 3 to 12 under the school’s new branding, Sparrow Soccer School. Sparrow Soccer School is the largest soccer school in Tung Chung with over 200 students forming a community that nurtures physical, social and emotional development of children as part of a healthy lifestyle.</p>
