@@ -1,5 +1,5 @@
 ---
-author: 
+author:
 comments: false
 button: Click
 date: 2018-05-19T16:00:00.000+00:00
@@ -8,8 +8,8 @@ excerpt: "<p>To provide children an invaluable opportunity to access sports educ
 layout: post
 title: Fullshare Has Been Named Official Education Partner of F.C. Internazionale
   Milano S.p.A.
-categories: 
-image: ''
+categories:
+image: 
 lang: en
 lang-ref: news_20180520
 nav_name: nav_news

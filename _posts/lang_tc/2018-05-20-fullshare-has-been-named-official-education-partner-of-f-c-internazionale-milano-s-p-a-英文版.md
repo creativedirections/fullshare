@@ -9,7 +9,7 @@ excerpt: ''
 title: Fullshare Has Been Named Official Education Partner of F.C. Internazionale
   Milano S.p.A (英文版)
 categories: ''
-image: ''
+image: 
 lang-ref: news_20180520
 nav_name: nav_news
 ---
