@@ -14,7 +14,7 @@ banner:
     show: False
     url: "#share_graph"
     text: Shares Information
-  #immage_url:
+  image_url: '../images/business/property/gsh_plaza/1.jpg'
 
 lang: en
 lang-ref: company_news.md

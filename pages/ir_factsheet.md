@@ -10,7 +10,7 @@ banner:
     show: false
     url: "#announcements"
     text: Continue
-  image_url: '../images/business/property/gsh_plaza/1.jpg'
+  image_url: '../images/business/property/gsh_plaza/2.jpg'
 
 lang: en
 lang-ref: ir.md
@@ -20,15 +20,15 @@ lang-ref: ir.md
 {% include _banner.html key='' style='style5' scheme='invert' color='' content_align='left' img_pos='left' %}
 
 <!-- Fact Sheet -->
-<section class="wrapper style2 align-center" id = "factsheet">
-    <!--<div class="inner medium">-->
+<section class="wrapper style1 align-center" id = "factsheet">
+    <div class="inner fullscreen">
       <h2>Fact Sheet</h2>
-      <iframe style="" src="https://tools.euroland.com/factsheet/hk-607/factsheethtml.asp?lang=english" width = "100%" height ="700"></iframe>
+      <iframe style="" src="https://tools.euroland.com/factsheet/hk-607/factsheethtml.asp?lang=english" width = "100%" height ="800"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
       </ul>
-    <!--</div>-->
+    </div>
 </section>
 
 {% comment %}

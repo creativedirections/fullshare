@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#share_graph"
     text: Shares Information
-  image_url: '../images/business/property/gsh_plaza/1.jpg'
+  image_url: '../images/business/property/gsh_plaza/2.jpg'
 
 lang: en
 lang-ref: ir.md
@@ -20,7 +20,7 @@ lang-ref: ir.md
 
 <!-- Share Graph -->
 <section class="wrapper style2 align-center" id = "share_graph">
-    <div class="inner medium">
+    <div class="inner fullscreen">
       <h2>Share Graph</h2>
       <iframe style="" src="http://asia.tools.euroland.com/tools/sharegraph/?s=1362&companycode=hk-607&lang=en-gb" width = "100%" height ="750"></iframe>
 
@@ -31,10 +31,10 @@ lang-ref: ir.md
 </section>
 
 <!-- Announcements -->
-<section class="wrapper style2 align-center" id = "announcements">
-    <div class="inner medium">
+<section class="wrapper style1 align-center" id = "announcements">
+    <div class="inner fullscreen">
       <h2>Announcements and Circulars</h2>
-      <iframe style="" src="https://asia.tools.euroland.com/tools/pressreleases/?companycode=hk-607&v=ticker&lang=en-gb" width = "100%" height ="250"></iframe>
+      <iframe style="" src="https://asia.tools.euroland.com/tools/pressreleases/?companycode=hk-607&v=ticker&lang=en-gb" width = "100%" height ="300"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
@@ -46,7 +46,7 @@ lang-ref: ir.md
 <section class="wrapper style2 align-center" id = "Subscription">
   <div class="inner medium">
       <h2>Subscription Centre</h2>
-      <iframe style="" src="http://asia.tools.euroland.com/tools/SubscriptionCentre2/?companycode=hk-607&lang=en-gb" width = "100%" height ="400"></iframe>
+      <iframe style="" src="http://asia.tools.euroland.com/tools/SubscriptionCentre2/?companycode=hk-607&lang=en-gb" width = "100%" height ="450"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
