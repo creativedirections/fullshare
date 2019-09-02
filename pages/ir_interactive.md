@@ -1,0 +1,31 @@
+---
+layout: page
+title: Investor Relation | Fullshare Holding Ltd.
+nav_fname: nav_ir
+banner:
+  title: <br/>Investor Relations
+  desc:
+  content:
+  button:
+    show: false
+    url: "#announcements"
+    text: Continue
+  image_url: '../images/business/property/gsh_plaza/1.jpg'
+
+lang: en
+lang-ref: ir.md
+---
+<!-- Welcome Banner -->
+
+{% include _banner.html key='' style='style5' scheme='invert' color='' content_align='left' img_pos='left' %}
+
+<!-- Interactive Analysis -->
+<section class="wrapper style2 align-center" id = "interactive_analysis">
+
+      <h2>Interactive Analysis</h2>
+      <iframe style="" src="https://asia.tools.euroland.com/tools/ia/?companycode=hk-607&v=ad&lang=en-gb" width = "85%" height ="750"></iframe>
+
+      <ul class="actions vertical">
+        <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
+      </ul>
+</section>

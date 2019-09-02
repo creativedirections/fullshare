@@ -1,13 +1,13 @@
 # pages to appear in navivation
 en:
-  - title: Announcements
-    path: /pages/ir#announcements
+  - title: IR Home
+    path: /pages/ir
 
   - title: Fact Sheet
-    path: /pages/ir#factsheet
+    path: /pages/ir_factsheet
 
-  - title: Ticker Chart
-    path: /pages/ir#ticker_chart
+  - title: Interactive Analysis
+    path: /pages/ir_interactive
 
 tc:
   - title: 任務

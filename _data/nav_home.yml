@@ -12,6 +12,9 @@ en:
   - title: News
     path: /pages/company_news
 
+  - title: Investor Relations
+    path: /pages/ir
+
 tc:
   - title: 關於我們
     path: /home_tc#aboutus
