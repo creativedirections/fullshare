@@ -6,7 +6,24 @@ nav_fname: nav_news
 news_post:
   title: Company News
 
+banner:
+  title: <br/>Company News
+  desc:
+  content:
+  button:
+    show: False
+    url: "#share_graph"
+    text: Shares Information
+  #immage_url:
+
 lang: en
 lang-ref: company_news.md
 ---
-{% include news_post.html key='news_post'%}
+{% comment %}
+{% include news_posts_gallery.html key='news_post'%}
+{% endcomment %}
+
+<!-- Welcome Banner -->
+{% include _banner.html key='' style='style5' scheme='invert' color='' content_align='left' img_pos='left' %}
+
+{% include news_posts.html lang = page.lang %}

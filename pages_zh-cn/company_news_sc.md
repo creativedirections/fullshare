@@ -10,4 +10,4 @@ lang: sc
 lang-ref: company_news.md
 ---
 
-{% include news_post.html key='news_post' lang='sc' %}
+{% include news_posts_gallery.html key='news_post' lang='sc' %}
