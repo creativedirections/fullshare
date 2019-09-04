@@ -10,21 +10,21 @@ en:
     path: /pages/ir_interactive
 
 tc:
-  - title: 任務
-    path: /pages_zh-hk/governance_tc#task
+  - title: 投資者關係主頁
+    path: /pages_zh-hk/ir_tc
 
-  - title: 風險管理
-    path: /pages_zh-hk/governance_tc#risk_management
+  - title: 公司一覽表
+    path: /pages_zh-hk/ir_factsheet_tc
 
-  - title: 企業管治
-    path: /pages_zh-hk/governance_tc#org_chart
+  - title: 互動分析
+    path: /pages_zh-hk/ir_interactive_tc
 
 sc:
-  - title: 任务
-    path: /pages_zh-cn/governance_sc#task
+  - title: 投资者关系主页
+    path: /pages_zh-cn/ir_sc
 
-  - title: 风险管理
-    path: /pages_zh-cn/governance_sc#risk_management
+  - title: 公司一览表
+    path: /pages_zh-cn/ir_factsheet_sc
 
-  - title: 企业管治
-    path: /pages_zh-cn/governance_sc#org_chart
+  - title: 互动分析
+    path: /pages_zh-cn/ir_interactive_sc
