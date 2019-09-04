@@ -28,6 +28,9 @@ tc:
   - title: 公司新聞
     path: /pages_zh-hk/company_news_tc
 
+  - title: 投資者關係
+    path: /pages_zh-hk/ir_tc
+
 sc:
   - title: 关于我们
     path: /home_sc#aboutus
@@ -40,3 +43,6 @@ sc:
 
   - title: 公司新闻
     path: /pages_zh-cn/company_news_sc
+
+  - title: 投资者关系
+    path: /pages_zh-cn/ir_sc
