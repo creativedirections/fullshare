@@ -66,6 +66,37 @@ spotlight-governance:
     text: Learn More
   image_url: 'images/business/tourism/sheraton/4.jpg'
 
+spotlight-news:
+  title: Company News
+  content:
+  button:
+    show: true
+    url: "pages/company_news"
+    text: Learn More
+  image_url: '/images/business/property/gsh_plaza/1.jpg'
+
+spotlight-ir:
+  title: Investor Relations
+  content: |
+    <!--
+    <ul class="alt">
+    <li><a href="pages/ir" class="button">Share Information</a></li>
+    <li><a href="pages/ir_factsheet" class="button">Fact Sheet</a></li>
+    <li><a href="pages/if_interactive" class="button">Interactive Analysis</a></li>
+    </ul>
+    -->
+    <p>
+    <a href="pages/ir" class="button">Share Information</a>
+    <a href="pages/ir_factsheet" class="button">Fact Sheet</a>
+    <a href="pages/if_interactive" class="button">Interactive Analysis</a>
+    </p>
+  button:
+    show: false
+    url: "pages/business"
+    text: Learn More
+  image_url: 'images/business/property/gsh_plaza/2.jpg'
+
+
 items-contact:
   title: Contact Us
   content: Media & Investor Enquiries
@@ -99,6 +130,12 @@ items-contact:
 
 <!-- Corporate Goverance -->
 {% include _spotlight.html key='spotlight-governance' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='governance' %}
+
+<!-- Company News -->
+{% include _spotlight.html key='spotlight-news' style='style1' orient='left' scheme='' color='' size='' content_align='right' img_pos='center' id='news' %}
+
+<!-- Investor Relations -->
+{% include _spotlight.html key='spotlight-ir' style='style1' orient='right' scheme='invert' color='' size='' content_align='Center' img_pos='center' id='ir' %}
 
 <!-- Contact Us -->
 {% include _items.html key='items-contact' style='style3' size='small' id='contact' %}

@@ -10,10 +10,10 @@ en:
     path: /home#governance
 
   - title: News
-    path: /pages/company_news
+    path: /home#news
 
   - title: Investor Relations
-    path: /pages/ir
+    path: /home#ir
 
 tc:
   - title: 關於我們
@@ -26,10 +26,10 @@ tc:
     path: /home_tc#governance
 
   - title: 公司新聞
-    path: /pages_zh-hk/company_news_tc
+    path: /home_tc#news
 
   - title: 投資者關係
-    path: /pages_zh-hk/ir_tc
+    path: /home_tc#ir
 
 sc:
   - title: 关于我们
@@ -42,7 +42,7 @@ sc:
     path: /home_sc#governance
 
   - title: 公司新闻
-    path: /pages_zh-cn/company_news_sc
+    path: /home_sc#news
 
   - title: 投资者关系
-    path: /pages_zh-cn/ir_sc
+    path: /home_sc#ir
