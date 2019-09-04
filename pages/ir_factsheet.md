@@ -13,7 +13,7 @@ banner:
   image_url: '../images/business/property/gsh_plaza/2.jpg'
 
 lang: en
-lang-ref: ir.md
+lang-ref: ir_factsheet.md
 ---
 <!-- Welcome Banner -->
 
