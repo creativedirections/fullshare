@@ -111,7 +111,7 @@ items-contact:
       content: <a href="mailto:fullshare@intelligentjoy.com">fullshare@intelligentjoy.com</a>
       fa_class: far fa-envelope
     - title: Address
-      content: <a href="https://goo.gl/maps/xvcagXJyVho311Qt8" target="_blank">Unit 10-12, Level 43, Champion Tower, 3 Garden Road, Central, Hong Kong</a>
+      content: <a href="https://goo.gl/maps/kbvfw1tTZDXQmqYq5" target="_blank">Unit 2805, Level 28, Admiralty Centre Tower 1, 18 Harcourt Road, Admiralty, Hong Kong</a>
       fa_class: fas fa-map
 ---
 <!-- Welcome Banner -->

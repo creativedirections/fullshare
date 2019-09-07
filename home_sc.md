@@ -110,7 +110,7 @@ items-contact:
       content: <a href="mailto:fullshare@intelligentjoy.com">fullshare@intelligentjoy.com</a>
       fa_class: far fa-envelope
     - title: 公司地址
-      content: <a href="https://goo.gl/maps/xvcagXJyVho311Qt8" target="_blank">香港中环花园道3号冠君大厦43楼10-12室</a>
+      content: <a href="https://goo.gl/maps/kbvfw1tTZDXQmqYq5" target="_blank">香港金钟夏悫道18号海富中心1座28楼2805室</a>
       fa_class: fas fa-map
 ---
 <!-- Welcome Banner -->
