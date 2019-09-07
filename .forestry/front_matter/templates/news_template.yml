@@ -71,8 +71,9 @@ fields:
   hidden: true
   default: nav_news
 pages:
-- _posts/lang_tc/豐盛控股投資約-6-千萬美金成立地產基金.md
-- _posts/lang_tc/豐盛控股與碳云系訂立戰略合作協議-携手開拓大健康市場.md
+- _posts/lang_tc/2017-02-09-豐盛控股投資約-6-千萬美金成立地產基金.md
+- _posts/lang_tc/2017-03-29-豐盛控股與碳云系訂立戰略合作協議-携手開拓大健康市場.md
+- _posts/lang_tc/豐盛控股擬斥資-3-7-億新加坡元-收購新加坡-gsh-plaza-商業及辦公室開發項目.md
 - _posts/lang_tc/2017-04-28-豐盛控股最終控股股東計劃增持公司股份-展示對集團發展之信心.md
 - _posts/lang_tc/豐盛控股最終控股股東及執行董事增持公司股份-展示對集團發展之信心.md
 - _posts/lang_tc/2017-05-26-豐盛控股擬以約-8-千萬澳元買入五項澳洲土地物業-冀擴張旅遊度假業務.md
