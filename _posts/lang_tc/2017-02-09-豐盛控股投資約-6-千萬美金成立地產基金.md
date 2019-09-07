@@ -2,7 +2,7 @@
 layout: post
 image: "/files/forestry_uploads/03.jpg"
 lang: tc
-nav_: nav_news
+nav_name: nav_news
 author: ''
 comments: false
 button: ''
