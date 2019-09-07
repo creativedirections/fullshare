@@ -71,6 +71,7 @@ fields:
   hidden: true
   default: nav_news
 pages:
+- _posts/fullshare-announces-2016-interim-results.md
 - _posts/fullshare-proposes-acquiring-more-than-90-of-china-high-speed-transmission-equipment-group-in-line-with-business-direction-of-providing-green-healthy-living-environment.md
 - _posts/fullshare-holdings-supports-the-development-of-healthcare-businesses-by-investing-in-medicskin.md
 - _posts/over-68-of-china-high-speed-transmissions-shareholders-accepted-the-share-exchange-offer-by-the-wholly-owned-subsidiary-of-fullshare-holdings-in-relation-to-the-acquisition-all-of-the-issued-shares-of-china-high-speed-transmission.md
