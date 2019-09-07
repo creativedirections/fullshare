@@ -82,13 +82,13 @@ spotlight-ir:
     <ul class="alt">
     <li><a href="pages/ir" class="button">Share Information</a></li>
     <li><a href="pages/ir_factsheet" class="button">Fact Sheet</a></li>
-    <li><a href="pages/if_interactive" class="button">Interactive Analysis</a></li>
+    <li><a href="pages/ir_interactive" class="button">Interactive Analysis</a></li>
     </ul>
     -->
     <p>
     <a href="pages/ir" class="button">Share Information</a>
     <a href="pages/ir_factsheet" class="button">Fact Sheet</a>
-    <a href="pages/if_interactive" class="button">Interactive Analysis</a>
+    <a href="pages/ir_interactive" class="button">Interactive Analysis</a>
     </p>
   button:
     show: false

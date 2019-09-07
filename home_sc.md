@@ -82,13 +82,13 @@ spotlight-ir:
     <ul class="alt">
     <li><a href="pages/ir" class="button">Share Information</a></li>
     <li><a href="pages/ir_factsheet" class="button">Fact Sheet</a></li>
-    <li><a href="pages/if_interactive" class="button">Interactive Analysis</a></li>
+    <li><a href="pages/ir_interactive" class="button">Interactive Analysis</a></li>
     </ul>
     -->
     <p>
     <a href="pages_zh-cn/ir_sc" class="button">股价资讯</a>
     <a href="pages_zh-cn/ir_factsheet_sc" class="button">公司一览表</a>
-    <a href="pages_zh-cn/if_interactive_sc" class="button">互动分析</a>
+    <a href="pages_zh-cn/ir_interactive_sc" class="button">互动分析</a>
     </p>
   button:
     show: false
