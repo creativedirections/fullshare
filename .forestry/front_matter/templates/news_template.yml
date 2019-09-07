@@ -71,6 +71,7 @@ fields:
   hidden: true
   default: nav_news
 pages:
+- _posts/lang_tc/超過-68-中國高速傳動之股東接納豐盛之全資附屬公司所提出之股份交換要約以收購中國高速-傳動之全部已發行股份.md
 - _posts/lang_tc/豐盛控股成功收購中國高速傳動設備集團.md
 - _posts/lang_tc/豐盛控股收購澳洲兒童保育公司-sparrow-early-learning.md
 - _posts/lang_tc/豐盛控股擬斥資-1-06-億港元收購中國賽特-9-09-股權.md
