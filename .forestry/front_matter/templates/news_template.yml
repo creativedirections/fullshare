@@ -71,6 +71,7 @@ fields:
   hidden: true
   default: nav_news
 pages:
+- _posts/lang_tc/豐盛控股擬斥資合共-2-3-億港元入股兩家上市公司.md
 - _posts/fullshare-holdings-entered-into-the-formal-agreement-to-acquire-property-projects-in-jiangsu-province-with-a-total-consideration-of-rmb333-9-million.md
 - _posts/fullshare-holdings-limited-invests-hk-140-million-to-support-the-development-of-healthcare-finance-business.md
 - _posts/fullshare-holdings-invests-in-platform-for-direct-sales-of-healthcare-products-and-services.md
