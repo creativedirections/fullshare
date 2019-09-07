@@ -14,7 +14,7 @@ categories: ''
 lang-ref: news_20170927
 
 ---
-**Fullshare Holdings Limited** (“Fullshare Holdings” or the “Company”; SEHK stock code: 607, together with its subsidiaries, the “Group”) is pleased to announce that on 27 September 2017, the Group entered into a strategic cooperation agreement with Shanghai Joyu Culture Communication Company Limited (上海景域文化傳播股份有限公司) (“Shanghai Joyu Culture Communication”) to jointly develop and explore the cultural tourism and vacation market.
+(27 September 2017 – Hong Kong) **Fullshare Holdings Limited** (“Fullshare Holdings” or the “Company”; SEHK stock code: 607, together with its subsidiaries, the “Group”) is pleased to announce that on 27 September 2017, the Group entered into a strategic cooperation agreement with Shanghai Joyu Culture Communication Company Limited (上海景域文化傳播股份有限公司) (“Shanghai Joyu Culture Communication”) to jointly develop and explore the cultural tourism and vacation market.
 
 The Group and Shanghai Joyu Culture Communication will leverage on the respective financial and social resources to implement several tourism planning segment cooperations. It is intended that the total investment will be approximately RMB5 billion with an initial investment in a sum of RMB1 billion and the actual amount of the investment fund will be determined on the basis of actual financing needs and the progress of each project. Both parties shall jointly establish culture and tourism joint ventures with partners from various provinces and core cities in China, invest in tourism projects for expansion and establishment of new tourism projects, develop intelligent tourism investment other tourism investment cooperation projects.
 
