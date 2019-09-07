@@ -71,6 +71,7 @@ fields:
   hidden: true
   default: nav_news
 pages:
+- _posts/lang_tc/豐盛控股收購澳洲兒童保育公司-sparrow-early-learning.md
 - _posts/lang_tc/豐盛控股擬斥資-1-06-億港元收購中國賽特-9-09-股權.md
 - _posts/lang_tc/豐盛控股擬斥資合共-2-3-億港元入股兩家上市公司.md
 - _posts/fullshare-holdings-entered-into-the-formal-agreement-to-acquire-property-projects-in-jiangsu-province-with-a-total-consideration-of-rmb333-9-million.md
