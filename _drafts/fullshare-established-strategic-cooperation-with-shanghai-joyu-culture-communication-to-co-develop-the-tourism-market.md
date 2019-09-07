@@ -20,8 +20,6 @@ The Group and Shanghai Joyu Culture Communication will leverage on the respectiv
 
 Shanghai Joyu Culture Communication is a company incorporated in China, whose businesses and subsidiaries include Joyu Destination Operation Group (景域目的地運營集團), Lvmama Group (驢媽媽 集團) and Joyu Tourism Intelligent Economic Group (景域旅遊智慧經濟集團). Shanghai Joyu Culture Communication has the capability of operating tourism destinations. Meanwhile, it also accumulates a wealth of internet channel resource and the capability of providing intelligent services. It is capable in providing comprehensive services for tourism destinations and sites covering planning, construction, operation, management, advertising and sale services.
 
-**Mr. Ji Changqun, Executive Director, Chairman and CEO of Fullshare Holdings Limited**
-
-commented, “Fullshare is a conglomerate focusing on business operation. Tourism segment is an important part of the group industry. The Group will continue to integrate the resources including global quality tourism, healthcare management and other resources to establish a win-win collaboration between customers, partners and the Group. Shanghai Joyu Culture Communication
+**Mr. Ji Changqun, Executive Director, Chairman and CEO of Fullshare Holdings Limited** commented, “Fullshare is a conglomerate focusing on business operation. Tourism segment is an important part of the group industry. The Group will continue to integrate the resources including global quality tourism, healthcare management and other resources to establish a win-win collaboration between customers, partners and the Group. Shanghai Joyu Culture Communication
 
 owns well-known tourism product intellectual property (“IP”) in mainland China and its business development is in line with the Group’s. It is believed that the strategic cooperation provides an excellent development platform and opportunity to expand tourism business of the Group.
