@@ -12,7 +12,7 @@ title: Fullshare proposes acquiring more than 90% of China High Speed Transmissi
   Equipment Group in line with business direction of providing green, healthy living
   environment
 categories: ''
-lang-ref: news_20160916
+lang-ref: news_20160919
 
 ---
 (16 September 2016) **Fullshare Holdings Limited** (“Fullshare Holdings” or the “Company”, which together with its subsidiaries, is referred to as the “Group”; SEHK stock code: 607) proposes an offer to acquire a more than 90% equity interest in China High Speed Transmission Equipment Group Co., Ltd. (“China High Speed Transmission”; SEHK stock code: 658) to diversify into a wind power business in China. The move is also in line with Fullshare Holdings’ business direction of providing a green, healthy and comfortable living environment for society.
