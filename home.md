@@ -73,7 +73,7 @@ spotlight-news:
     show: true
     url: "pages/company_news"
     text: Learn More
-  image_url: '/images/business/property/gsh_plaza/1.jpg'
+  image_url: '/images/business/tourism/laguna/1.jpg'
 
 spotlight-ir:
   title: Investor Relations

@@ -14,7 +14,7 @@ banner:
     show: False
     url: "#share_graph"
     text: Shares Information
-  image_url: '../images/business/property/gsh_plaza/1.jpg'
+  image_url: '../images/business/tourism/laguna/1.jpg'
 
 lang: tc
 lang-ref: company_news.md
