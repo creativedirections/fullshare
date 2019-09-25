@@ -17,7 +17,7 @@ spotlight-risk_management:
   content: |
     <p><b>風險管理工作組</b></p>
 
-    <p>由5名常規成員組成，包括本集團首席運營官以及財務部、法務部、人資部、內控部分別推舉1名人員組成。小組負責人由本集團分管風險管理的首席運營官擔任。</p>
+    <p>風險管理工作組由來自本集團的財務部、法務部、人資部、內控部的常規成員組成。</p>
 
     <p>[expand]</p>
     <ul>
@@ -64,7 +64,25 @@ lang-ref: governance.md
 <section class="wrapper style2 align-center" id = "task">
     <div class="inner medium">
       <h2>任務</h2>
-      <span><img src="../images/corp_gov_tc.png" /></span>
+      <!-- <span><img src="../images/corp_gov_tc.png" /></span> -->
+
+      <div class="table-wrapper align-left">
+        <table>
+          <thead>
+            <tr>
+              <th><h3>高水準之企業管治</h3></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>《上市規則附錄四》</td>
+            </tr>
+            <tr>
+              <td>《標準守則》</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 
       <div class="table-wrapper align-left">
         <table>

@@ -17,7 +17,7 @@ spotlight-risk_management:
   content: |
     <p><b>Risk Management Working Group</b></p>
 
-    <p>Composed of 5 regular members, including the Chief Operating Officer and one member from the Company’s Finance Department, Legal Department, Human Resources Department and Internal Audit Department, respectively. Chaired by the Company’s Chief Operating Officer who is in charge of risk management.</p>
+    <p>Composed of regular members from the Company’s Finance Department, Legal Department, Human Resources Department and Internal Audit Department.</p>
 
     <p>[expand]</p>
     <ul>
@@ -63,7 +63,25 @@ lang-ref: governance.md
 <section class="wrapper style2 align-center" id = "task">
     <div class="inner medium">
       <h2>Task</h2>
-      <span><img src="../images/corp_gov.png" /></span>
+      <!-- <span><img src="../images/corp_gov.png" /></span> -->
+
+      <div class="table-wrapper align-left">
+        <table>
+          <thead>
+            <tr>
+              <th><h3>High Standards of Corporate Governance</h3></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>&lt;&lt;Appendix 14 of Listing Rules&gt;&gt;</td>
+            </tr>
+            <tr>
+              <td>&lt;&lt;Model Code&gt;&gt;</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
 
       <div class="table-wrapper align-left">
         <table>

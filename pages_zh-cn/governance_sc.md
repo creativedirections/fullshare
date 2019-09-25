@@ -17,7 +17,7 @@ spotlight-risk_management:
   content: |
     <p><b>风险管理工作组</b></p>
 
-    <p>由5名常规成员组成，包括本集团首席运营官以及财务部、法务部、人资部、内控部分别推举1名人员组成。小组负责人由本集团分管风险管理的首席运营官担任。</p>
+    <p>风险管理工作组由来自本集团的财务部、法务部、人资部、内控部的常规成员组成。</p>
 
     <p>[expand]</p>
     <ul>
@@ -63,7 +63,26 @@ lang-ref: governance.md
 <section class="wrapper style2 align-center" id = "task">
     <div class="inner medium">
       <h2>任务</h2>
-      <span><img src="../images/corp_gov_sc.png" /></span>
+      <!-- <span><img src="../images/corp_gov_sc.png" /></span> -->
+
+      <div class="table-wrapper align-left">
+        <table>
+          <thead>
+            <tr>
+              <th><h3>高水准之企业管治</h3></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>《上市规则附录四》</td>
+            </tr>
+            <tr>
+              <td>《标准守则》</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
 
       <div class="table-wrapper align-left">
         <table>
