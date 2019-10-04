@@ -4,7 +4,7 @@ title: Financial Reports
 nav_fname: nav_ir
 
 lang: en
-lang-ref: news_gallery.md
+lang-ref: ir_reports
 ---
 
-{% include _gallery_pdf.html data='ir_reports_en' style='style2' lightbox=true size='medium' use_dir_list=true %}
+{% include _gallery_pdf.html data='ir_reports_en' style='style2' lightbox=true size='small' use_dir_list=true %}
