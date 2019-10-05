@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Financial Reports
+title: 財務報告
 nav_fname: nav_ir
 
 lang: tc
