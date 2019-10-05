@@ -74,7 +74,7 @@ lang-ref: governance.md
           </thead>
           <tbody>
             <tr>
-              <td>《上市规则附录四》</td>
+              <td>《上市规则附录十四》</td>
             </tr>
             <tr>
               <td>《标准守则》</td>
