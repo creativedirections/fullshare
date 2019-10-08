@@ -87,6 +87,7 @@ spotlight-ir:
     -->
     <p>
     <a href="pages_zh-cn/ir_sc" class="button">股价资讯</a>
+    <a href="pages_zh-cn/ir_reports_sc" class="button">财务报告</a>
     <a href="pages_zh-cn/ir_factsheet_sc" class="button">公司一览表</a>
     <a href="pages_zh-cn/ir_interactive_sc" class="button">互动分析</a>
     </p>
