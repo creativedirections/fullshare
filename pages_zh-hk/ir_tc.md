@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#share_graph"
     text: 股價資訊
-  image_url: '../images/business/property/gsh_plaza/2.jpg'
+  image_url: '../images/business/property/residential/2.jpg'
 
 lang: tc
 lang-ref: ir.md

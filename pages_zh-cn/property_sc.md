@@ -32,7 +32,7 @@ spotlight-yuhua_salon:
 
     <p>雨花客厅位于中国（南京）软件谷之核心位置，乃南京首个集双地铁站，低碳绿色，人性化等优势于一体之总部式商用地产项目，总建筑面积达50万平方米，为整个软件谷提供管理中心，办公室大楼，商用物业，酒店及服务式公寓等全方位商业配套设施。作为国家级软件产业基地之核心配套地产物业，雨花客厅将低碳节能科技元素，首次应用到商用物业中，由丰盛控股自主研发的地源热泵系统，能够确保物业室内四季恒温、恒湿、恒氧，利用回圈的地下水源控温控湿，既能将办公环境维持在人体最舒适的条件中，并能成功降低30%能源消耗，达到低碳节能的目标。</p>
 
-    <p>雨花客厅已获得多个大牌入驻，包括沃尔玛山姆会员店、运动品牌迪卡侬、英皇体验具乐部、洛克公园等。</p> 
+    <p>雨花客厅已获得多个大牌入驻，包括沃尔玛山姆会员店、运动品牌迪卡侬、英皇体验具乐部、洛克公园等。</p>
 
     <p>中国（南京）软件谷位于南京市的西南部， 规划总面积73平方公里，是中国最大的资讯科技软件产业研发基地，综合实力已跻身中国同类软件园区之首三名位置，同时亦是中国资讯科技服务外包示范基地，国家现代资讯科技软件产业基地，以及国家数码出版基地。中国（南京）软件谷内已汇集不同类型软件企业超过660家，仅软件从业人员超过15万人。</p>
   button:
@@ -83,7 +83,4 @@ lang-ref: property.md
 
 {% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='invert' color='' size='' content_align='right' img_pos='left' id='yuhua_salon' %}
 
-{% include _spotlight.html key='spotlight-gsh_plaza' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='center' id='gsh_plaza' %}
-
-{% include _spotlight.html key='spotlight-residential' style='style1' orient='left' scheme='invert' color='' size='' content_align='left' img_pos='center' id='residential' %}
-
+{% include _spotlight.html key='spotlight-residential' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='center' id='residential' %}

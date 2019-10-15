@@ -95,7 +95,7 @@ spotlight-ir:
     show: false
     url: "pages/business"
     text: Learn More
-  image_url: 'images/business/property/gsh_plaza/2.jpg'
+  image_url: 'images/business/property/residential/1.jpg'
 
 items-contact:
   title: 聯繫我們

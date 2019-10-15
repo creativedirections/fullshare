@@ -10,7 +10,7 @@ banner:
     show: false
     url: "#announcements"
     text: Continue
-  image_url: '../images/business/property/gsh_plaza/2.jpg'
+  image_url: '../images/business/property/residential/2.jpg'
 
 lang: sc
 lang-ref: ir_factsheet.md
@@ -60,4 +60,3 @@ lang-ref: ir_factsheet.md
 <!-- Risk Management -->
 {% include _spotlight.html key='spotlight-risk_management' style='style1' orient='left' scheme='' color='' size='' content_align='left' img_pos='center' id='risk_management' %}
 {% endcomment %}
-
