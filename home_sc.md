@@ -87,6 +87,7 @@ spotlight-ir:
     -->
     <p>
     <a href="pages_zh-cn/ir_sc" class="button">股价资讯</a>
+    <a href="pages_zh-cn/ir_reports_sc" class="button">财务报告</a>
     <a href="pages_zh-cn/ir_factsheet_sc" class="button">公司一览表</a>
     <a href="pages_zh-cn/ir_interactive_sc" class="button">互动分析</a>
     </p>
@@ -94,7 +95,7 @@ spotlight-ir:
     show: false
     url: "pages/business"
     text: Learn More
-  image_url: 'images/business/property/gsh_plaza/2.jpg'
+  image_url: 'images/business/property/residential/1.jpg'
 
 items-contact:
   title: 联系我们

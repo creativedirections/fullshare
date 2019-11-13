@@ -10,7 +10,7 @@ banner:
     show: true
     url: "#share_graph"
     text: 股价资讯
-  image_url: '../images/business/property/gsh_plaza/2.jpg'
+  image_url: '../images/business/property/residential/2.jpg'
 
 lang: sc
 lang-ref: ir.md
@@ -53,4 +53,3 @@ lang-ref: ir.md
       </ul>
   </div>
 </section>
-

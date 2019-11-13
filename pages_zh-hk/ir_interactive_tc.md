@@ -10,7 +10,7 @@ banner:
     show: false
     url: "#announcements"
     text: Continue
-  image_url: '../images/business/property/gsh_plaza/2.jpg'
+  image_url: '../images/business/property/residential/2.jpg'
 
 lang: tc
 lang-ref: ir_interactive.md

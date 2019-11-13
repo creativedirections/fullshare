@@ -9,8 +9,8 @@ en:
   - title: Yuhua Salon
     path: /pages/property#yuhua_salon
 
-  - title: GSH Plaza
-    path: /pages/property#gsh_plaza
+  # - title: GSH Plaza
+  #   path: /pages/property#gsh_plaza
 
   - title: Residental Property
     path: /pages/property#residential
@@ -25,8 +25,8 @@ tc:
   - title: 雨花客廳
     path: /pages_zh-hk/property_tc#yuhua_salon
 
-  - title: GSH Plaza
-    path: /pages_zh-hk/property_tc#gsh_plaza
+  # - title: GSH Plaza
+  #   path: /pages_zh-hk/property_tc#gsh_plaza
 
   - title: 住宅地產
     path: /pages_zh-hk/property_tc#residential
@@ -41,9 +41,8 @@ sc:
   - title: 雨花客厅
     path: /pages_zh-cn/property_sc#yuhua_salon
 
-  - title: GSH Plaza
-    path: /pages_zh-cn/property_sc#gsh_plaza
+  # - title: GSH Plaza
+  #   path: /pages_zh-cn/property_sc#gsh_plaza
 
   - title: 住宅地产
     path: /pages_zh-cn/property_sc#residential
-

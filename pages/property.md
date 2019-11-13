@@ -31,10 +31,11 @@ spotlight-yuhua_salon:
     <p><b>Yuhua Salon</b></p>
 
     <p>Yuhua Salon is located in the central area of China (Nanjing) Software Valley and it is the first comprehensive headquarter-style commercial real estates project with dual subway stations, low-carbon, green, user-friendly advantages in Nanjing. With total construction area of 50 thousand square meters, the project includes management centers, offices and various commercial facilities such as office buildings, commercial properties, hotels and serviced apartments. Being the core real estate project dedicated to the national information technology and software industry base, Yuhua Salon is the pioneer who successfully applied low-carbon energy-saving technology in commercial properties. The geothermal heat pump system developed by the Group can keep constant temperature, humidity, and oxygen content within the property. Using loop groundwater source controlling temperature and humidity, it can well maintain the office environment at the most comfortable conditions for human being. In addition, it can reduce energy consumption by 30% to achieve low-carbon energy targets.</p>
-
+    <p>[expand]</p>
     <p>Yuhua Salon has introduced many well-known brands, including Wal-Mart Sam’s Club, Decathlon, a sports brand originated from Europe, Royal Sport Club, Rucker Park, etc.</p>
 
     <p>China (Nanjing) Software Valley is located in the southwest of Nanjing, with total planning area reaches 73 square kilometers. It is the largest R&D base of information technology & software industry in China that its comprehensive strength has been ranked as one of the top three software parks in China. It is also well known as the information technology services outsourcing demonstration base, the national information technology and software industry base, as well as the national digital publishing base. There were over 660 software companies operating and more than 150 thousand software practitioners working in the Valley.</p>
+    <p>[/expand]</p>
   button:
     show: true
     url: "#"
@@ -83,6 +84,4 @@ lang-ref: property.md
 
 {% include _spotlight.html key='spotlight-yuhua_salon' style='style1' orient='left' scheme='invert' color='' size='' content_align='right' img_pos='left' id='yuhua_salon' %}
 
-{% include _spotlight.html key='spotlight-gsh_plaza' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='center' id='gsh_plaza' %}
-
-{% include _spotlight.html key='spotlight-residential' style='style1' orient='left' scheme='invert' color='' size='' content_align='left' img_pos='center' id='residential' %}
+{% include _spotlight.html key='spotlight-residential' style='style1' orient='right' scheme='' color='' size='' content_align='left' img_pos='center' id='residential' %}

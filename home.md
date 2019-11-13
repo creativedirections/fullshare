@@ -87,6 +87,7 @@ spotlight-ir:
     -->
     <p>
     <a href="pages/ir" class="button">Share Information</a>
+    <a href="pages/ir_reports" class="button">Financial Reports</a>
     <a href="pages/ir_factsheet" class="button">Fact Sheet</a>
     <a href="pages/ir_interactive" class="button">Interactive Analysis</a>
     </p>
@@ -94,7 +95,7 @@ spotlight-ir:
     show: false
     url: "pages/business"
     text: Learn More
-  image_url: 'images/business/property/gsh_plaza/2.jpg'
+  image_url: 'images/business/property/residential/1.jpg'
 
 
 items-contact:
