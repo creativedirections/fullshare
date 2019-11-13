@@ -164,7 +164,7 @@ lang-ref: governance.md
           <tr>
             <th scope="row" bgcolor = "{{ page.table_color.bg_row_header }}">薪酬委員會</th>
             <td>劉智強先生 <br />(主席)</td>
-            <td>季昌群先生</td>
+            <td>杜瑋女士</td>
             <td>曾細忠先生</td>
             <td><a href="../files/3_薪酬委員會職權範圍.pdf" class="button fit small icon fas fa-download">PDF</a></td>
           </tr>
@@ -177,15 +177,15 @@ lang-ref: governance.md
           </tr>
           <tr>
             <th scope="row" bgcolor = "{{ page.table_color.bg_row_header }}">風險管理委員會</th>
-            <td>杜瑋女士 <br />(主席)</td>
-            <td>王波先生</td>
+            <td>沈晨先生 <br />(主席)</td>
+            <td>杜瑋女士</td>
             <td>曾細忠先生</td>
             <td><a href="../files/5_風險管理委員會之職權範圍.pdf" class="button fit small icon fas fa-download">PDF</a></td>
           </tr>
           <tr>
             <th scope="row" bgcolor = "{{ page.table_color.bg_row_header }}">環境，社會及管治委員會</th>
-            <td>王波先生 <br />(主席)</td>
-            <td>杜瑋女士</td>
+            <td>杜瑋女士 <br />(主席)</td>
+            <td>沈晨先生</td>
             <td>曾細忠先生</td>
             <td><a href="../files/Attachment-1_CN.pdf" class="button fit small icon fas fa-download">PDF</a></td>
           </tr>
