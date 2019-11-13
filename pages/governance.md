@@ -163,7 +163,7 @@ lang-ref: governance.md
           <tr>
             <th scope="row" bgcolor = "{{ page.table_color.bg_row_header }}">Remuneration Committee</th>
             <td>Mr. Lau Chi Keung (Chairman)</td>
-            <td>Mr. Ji Changqun</td>
+            <td>Ms. Du Wei</td>
             <td>Mr. Tsang Sai Chung</td>
             <td><a href="../files/3_Term-of-Reference-of-the-Remuneration-Committee-1.pdf" class="button fit small icon fas fa-download">PDF</a></td>
           </tr>
@@ -176,15 +176,15 @@ lang-ref: governance.md
           </tr>
           <tr>
             <th scope="row" bgcolor = "{{ page.table_color.bg_row_header }}">Risk Management Committee</th>
-            <td>Ms. Du Wei (Chairwoman)</td>
-            <td>Mr. Wang Bo</td>
+            <td>Mr. Shen Chen (Chairman)</td>
+            <td>Ms. Du Wei</td>
             <td>Mr. Tsang Sai Chung</td>
             <td><a href="../files/5_Terms-of-Reference-of-the-Risk-Management-Committee-1.pdf" class="button fit small icon fas fa-download">PDF</a></td>
           </tr>
           <tr>
             <th scope="row" bgcolor = "{{ page.table_color.bg_row_header }}">Environmental, Social, and Governance Committee</th>
-            <td>Mr. Wang Bo (Chairman)</td>
-            <td>Ms. Du Wei</td>
+            <td>Ms. Du Wei (Chairwoman)</td>
+            <td>Mr. Shen Chen</td>
             <td>Mr. Tsang Sai Chung</td>
             <td><a href="../files/Attachment-1_EN.pdf" class="button fit small icon fas fa-download">PDF</a></td>
           </tr>
