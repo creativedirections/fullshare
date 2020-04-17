@@ -30,5 +30,3 @@ lang-ref: ir_interactive.md
       </ul>
     </div>
 </section>
-
-{% include euroland_plugins.html %}
