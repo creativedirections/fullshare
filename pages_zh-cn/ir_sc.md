@@ -22,7 +22,7 @@ lang-ref: ir.md
 <section class="wrapper style2 align-center" id = "share_graph">
     <div class="inner fullscreen">
       <h2>股价图</h2>
-      <iframe style="" src="http://asia.tools.euroland.com/tools/sharegraph/?s=1362&companycode=hk-607&lang=zh-cn" width = "100%" height ="750"></iframe>
+      <iframe class = "EurolandTool" style="" src="//asia.tools.euroland.com/tools/sharegraph/?s=1362&companycode=hk-607&lang=zh-cn" width = "100%" height ="750"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
@@ -34,7 +34,7 @@ lang-ref: ir.md
 <section class="wrapper style1 align-center" id = "announcements">
     <div class="inner fullscreen">
       <h2>公告与通函摘要</h2>
-      <iframe style="" src="https://asia.tools.euroland.com/tools/pressreleases/?companycode=hk-607&v=ticker&lang=zh-tw" width = "100%" height ="300"></iframe>
+      <iframe class = "EurolandTool" style="" src="https://asia.tools.euroland.com/tools/pressreleases/?companycode=hk-607&v=ticker&lang=zh-tw" width = "100%" height ="300"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
@@ -46,7 +46,7 @@ lang-ref: ir.md
 <section class="wrapper style2 align-center" id = "Subscription">
   <div class="inner medium">
       <h2>电邮订阅中心</h2>
-      <iframe style="" src="http://asia.tools.euroland.com/tools/SubscriptionCentre2/?companycode=hk-607&lang=zh-cn" width = "100%" height ="450"></iframe>
+      <iframe class = "EurolandTool" style="" src="//asia.tools.euroland.com/tools/SubscriptionCentre2/?companycode=hk-607&lang=zh-cn" width = "100%" height ="450"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>

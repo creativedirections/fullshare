@@ -23,7 +23,7 @@ lang-ref: ir_interactive.md
 <section class="wrapper style1 align-center" id = "interactive_analysis">
     <div class = "inner fullscreen">
       <h2>互動分析</h2>
-      <iframe style="" src="https://asia.tools.euroland.com/tools/ia/?companycode=hk-607&v=ad&lang=zh-tw" width = "85%" height ="800"></iframe>
+      <iframe class = "EurolandTool" style="" src="https://asia.tools.euroland.com/tools/ia/?companycode=hk-607&v=ad&lang=zh-tw" width = "85%" height ="800"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>

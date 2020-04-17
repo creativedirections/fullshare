@@ -46,7 +46,7 @@ lang-ref: ir.md
 <section class="wrapper style2 align-center" id = "Subscription">
   <div class="inner medium">
       <h2>Subscription Centre</h2>
-      <iframe class = "EurolandTool" style="" src="http://asia.tools.euroland.com/tools/SubscriptionCentre2/?companycode=hk-607&lang=en-gb" width = "100%" height ="450"></iframe>
+      <iframe class = "EurolandTool" style="" src="//asia.tools.euroland.com/tools/SubscriptionCentre2/?companycode=hk-607&lang=en-gb" width = "100%" height ="450"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
