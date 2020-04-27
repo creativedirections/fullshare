@@ -34,7 +34,7 @@ lang-ref: ir.md
 <section class="wrapper style1 align-center" id = "announcements">
     <div class="inner fullscreen">
       <h2>Announcements and Circulars</h2>
-      <iframe class = "EurolandTool" style="" src="https://asia.tools.euroland.com/tools/pressreleases/?companycode=hk-607&v=ticker&lang=en-gb" width = "100%" height ="300"></iframe>
+      <iframe class = "EurolandTool" style="" src="https://asia.tools.euroland.com/tools/pressreleases/?companycode=hk-607&lang=en-gb" width = "100%" height ="300"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
