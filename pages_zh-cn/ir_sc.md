@@ -34,7 +34,7 @@ lang-ref: ir.md
 <section class="wrapper style1 align-center" id = "announcements">
     <div class="inner fullscreen">
       <h2>公告与通函摘要</h2>
-      <iframe class = "EurolandTool" style="" src="https://asia.tools.euroland.com/tools/pressreleases/?companycode=hk-607&lang=zh-tw" width = "100%" height ="300"></iframe>
+      <iframe class = "EurolandTool" style="" src="https://asia.tools.euroland.com/tools/pressreleases/?companycode=hk-607&lang=zh-cn" width = "100%" height ="300"></iframe>
 
       <ul class="actions vertical">
         <li><a href="#" class="icon style2 fas fa-chevron-up"></a></li>
